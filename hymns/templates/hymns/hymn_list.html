@@ -1,0 +1,6 @@
+<h1>Hymnal Book</h1>
+<ul>
+  {% for hymn in hymns %}
+    <li><a href="{{ hymn.id }}/">{{ hymn.number }} - {{ hymn.title }}</a></li>
+  {% endfor %}
+</ul>
