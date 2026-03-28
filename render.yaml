@@ -1,0 +1,19 @@
+services:
+  - type: web
+    name: django-backend
+    env: python
+    plan: free   # or standard, depending on your Render plan
+    buildCommand: |
+      export CARGO_HOME=/tmp/cargo
+      pip install --upgrade pip setuptools wheel
+      pip install -r requirements.txt
+    startCommand: gunicorn hymnal.wsgi:application
+    envVars:
+      - key: CARGO_HOME
+        value: /tmp/cargo
+      - key: DJANGO_SETTINGS_MODULE
+        value: hymnal.settings
+      - key: PYTHON_VERSION
+        value: 3.12
+    autoDeploy: true
+    deployOnPush: true
