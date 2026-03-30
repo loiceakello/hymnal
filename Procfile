@@ -1,1 +1,1 @@
-web: gunicorn hymnal.wsgi
+web: gunicorn hymnal.wsgi:application
