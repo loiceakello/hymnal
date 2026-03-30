@@ -111,9 +111,11 @@ WSGI_APPLICATION = 'hymnal.wsgi.application'
 
 import dj_database_url
 import os
+
 DATABASES = {
     'default': dj_database_url.config(
-        default=os.getenv('DATABASE_URL'))
+        default=os.getenv('DATABASE_URL', 'sqlite:///db.sqlite3')
+    )
 }
 
 
