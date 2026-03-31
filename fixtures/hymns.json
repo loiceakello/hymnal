@@ -1,0 +1,1316 @@
+[
+{
+  "model": "hymns.hymn",
+  "pk": 1,
+  "fields": {
+    "title": "Duon'g ni Nying Yesu Kristo",
+    "lyrics": "Duon'g ni Nying Yesu Kristo! \r\nJo malaika dende; \r\nKeturu osimbo kuome, \r\nKwatime Ruoth chutho. \r\n\r\nJi mag ogendini duto \r\nModak e piny ngima, \r\nMiyeuru duong' chutho, \r\nWaleumru ka Ruoth. \r\n \r\nChieng'ma wanabed e polo, \r\nWanapodhie nyime, \r\nWanapake gi wer pile, \r\nEn e Ruodhwa chutho.",
+    "number": 1
+  }
+},
+{
+  "model": "hymns.hymn",
+  "pk": 2,
+  "fields": {
+    "title": "Chiembi mar chuny miya,",
+    "lyrics": "Chiembi mar chuny miya, \r\nKoro Yesu. \r\nChon ne ipidhoji, \r\nTo wan bende \r\nKuom weche mag Nyasaye \r\nMokonyowa. \r\nChunya riyo mako \r\nKuom wach mari. \r\n\r\nGwedhna weche magi, \r\nRuodhwa Yesu, \r\nKaka ikonyoji \r\nMaluwi. \r\nEkaigonyona \r\nGik motuweya. \r\nAnayud kwe mara \r\nKuomi, Yesu. \r\n\r\nKonya mondo adok \r\nJapuonj mari, \r\nKajoote machon \r\nE Galili. \r\nKatichna orumo \r\nNalo duto, \r\nNaneni epolo, \r\nYesu Ruodhwa.",
+    "number": 2
+  }
+},
+{
+  "model": "hymns.hymn",
+  "pk": 3,
+  "fields": {
+    "title": "Ka ma Jawar nothona e Yath",
+    "lyrics": "1.\r\nKa ma Jawar nothona e Yath,\r\nLuok mar richo duto nitie;\r\nRembe nyalo loso chunyi mapoth\r\nNyingeni duong'!\r\n\r\nNyinge ni duong'!\r\nNyinge ni duong'!\r\nRembe noluoko chunya maler;\r\nNyinge ni duong'!\r\n\r\n2. \r\nKuom warruok maduong' kama!\r\nYesu okelo hawi kuoma;\r\nNothona e Yath, nogayowa;\r\nNyinge ni duong'!\r\n\r\n3. \r\nSoko ma nochuwer mowarowa,\r\nOmiya mor kasedonje;\r\nYesu owara, oritowa;\r\nNyinge ni duong'!\r\n\r\n4.\r\nBiuru e Soko machuwernu;\r\nKeturu chunyu kuom Jawaru;\r\nYieuru koro noluoku;\r\nNyinge ni duong'!",
+    "number": 3
+  }
+},
+{
+  "model": "hymns.hymn",
+  "pk": 4,
+  "fields": {
+    "title": "Nikech Nyasaye ogwedha ngan'g",
+    "lyrics": "1.\r\nNikech Nyasaye ogwedha ngan'g,\r\nOk anawe pako Nyinge;\r\nKuom herane madwon'g maber,\r\nOk anawe pako Nyinge.\r\n\r\nOk anawe pako Nyinge,\r\nJawarna, Jawarna;\r\nOk anawe pako Nyinge,\r\nOsegwedha ahinya ngan'g\r\n\r\n\r\n2.\r\nNogolo richona duto,\r\nOk anawe pako Nyinge;\r\nDhano machon noguro e yath,\r\nOk anawe pako Nyinge.\r\n\r\n3. \r\nOkonya pile saa mar tem,\r\nOk anawe pako Nyinge;\r\nTo Rembe bende pwodha chuth,\r\nOk anawe pako Nyinge.\r\n\r\n4. \r\nOtega ndalo duto te,\r\nOk anawe pako Nyinge:\r\nOtelona e yo maber,\r\nOk anawe pako Nyinge",
+    "number": 4
+  }
+},
+{
+  "model": "hymns.hymn",
+  "pk": 5,
+  "fields": {
+    "title": "In Maler adiera",
+    "lyrics": "1.\r\nIn Maler adiera! Wuonwa Nyakalaga!\r\nKoro ka gokinyi wawer kawapaki;\r\nIn Maler adiera! In manyalo duto!\r\nWuonwa, gi Wuode, kod Roho Maler!\r\n\r\n2.\r\nIn Maler adiera! jo-maler gilami,\r\nNyaka nene jogo nopaki ka gimor;\r\nKendo Malaika gini paki chutho,\r\nIn nyaka nene, koro, nyaka chieng'\r\n\r\n3. \r\nIn Maler adiera! mudho dak gen'gi,\r\nOnge jo maricho maneno duon'gni;\r\nIn Maler, In kendi: onge maromo kodi;\r\nMaduong' mawahero, In Maler adier.\r\n\r\n4. \r\nIn Maler adiera! Wuonwa Nyakalaga!\r\nTichni duto mani epiny\r\nginam gi polo kute;\r\nDuto biro paki, In man'gwon manyalo;\r\nWuonwa, gi Wuode, kod Roho Maler!",
+    "number": 5
+  }
+},
+{
+  "model": "hymns.hymn",
+  "pk": 6,
+  "fields": {
+    "title": "Anawer wende Jawarna",
+    "lyrics": "1.\r\nAnawer wende Jawarna,\r\nGi hera ne kuoma.\r\nE musalaba gigure,\r\nMondo' nogonya e richo.\r\n\r\nWeruru, wende Jawarwa,\r\nKod rembe non'giewo.\r\nE musalaba noweyonwa,\r\nNochulo gowi, nogonyowa.\r\n\r\n2. \r\nAnahul weche mag Yesu,\r\nKa nowara e richo.\r\nGi Herane kod n'gwono,\r\nNogolo richona te.\r\n\r\n3. \r\nAnapak Yesu Jawar,\r\nAnahul wach tekone.\r\nOmiya teko kuom loyo,\r\nRicho te, gi gik mag piny.",
+    "number": 6
+  }
+},
+{
+  "model": "hymns.hymn",
+  "pk": 7,
+  "fields": {
+    "title": "Yesu Ruodha gi Jawar miwuoro",
+    "lyrics": "1.\r\nYesu Ruodha gi Jawar miwuoro,\r\nNgimana duto achiwo ni;\r\nAmor ahinya e warruokni\r\nRembi mochwer ogonya koro.\r\n\r\nJawar miwuoro, Jawar miwuoro,\r\nIbet koda machiegni.\r\nJawar miwuoro, Jawar miwuoro,\r\nChunya opong' gi pak magi.\r\n\r\n2. \r\nGonyo e richo! weche mamit,\r\nKethruok duto noluoko maler;\r\nYesu nobiro, odak e hekalu ne,\r\nGi herane opong'o chunya.\r\n\r\n3. \r\nYesu, Ruodha, adendoi chutho,\r\nMwandu mar hera akelo e nyimi;\r\nTelna e yo manyiso duon'gni,\r\nYomotundo epolo malo.\r\n\r\n4. \r\nKa watundo dala maler malo,\r\nAbiro neno duon'gni mak rem;\r\nAbiro chalo kodi Jawarna,\r\nAbiro wero wende mag polo.",
+    "number": 7
+  }
+},
+{
+  "model": "hymns.hymn",
+  "pk": 8,
+  "fields": {
+    "title": "Walamo Jehova Nyasaye",
+    "lyrics": "1.\r\nWalamo Jehova Nyasaye\r\nWalami Yesu Kristo\r\nKod Roho Maler Mar Ruodhwa\r\nHera mari to duon'g.\r\n\r\n2.\r\nWalamo Wuonwa gi Roho,\r\nOmiwa chiemo mar chunywa,\r\nKod gik moko mabeyo,\r\nWamiye duong' tinende.\r\n\r\n3. \r\nWalami, Yesu Kristo,\r\nNosethonwa e Kalvari,\r\nOluoko chunywa gi rembe,\r\nWamiye duong' tinende.\r\n\r\n4. \r\nTo Roho Maler mar Nyasaye,\r\nMonyisowa marichowa.\r\nOdwaro nyisowa Nyasaye,\r\nWamiye duong' tinende",
+    "number": 8
+  }
+},
+{
+  "model": "hymns.hymn",
+  "pk": 9,
+  "fields": {
+    "title": "Nool gweth maduon'g kuomwa",
+    "lyrics": "1.\r\nNool gweth maduon'g kuomwa:\r\nEn singruok mar herane,\r\nWanayudi mew mar Nyasaye,\r\nMamiyowa mor chutho.\r\n\r\nGweth to nomiwa,\r\nGweth chuny e mwachando;\r\nOronwa gweth momedore\r\nE mawakwayo kawuono.\r\n\r\n2.\r\nNool gweth maduon'g kuomwa,\r\nMar jiwo chunywa kendo;\r\nJo mool kendo matuo\r\nGiniwinj ni gweth nitie.\r\n\r\n3.\r\nNool gweth maduon'g kuomwa:\r\nYaye, olnwa koro, Ruoth!\r\nPong' chunywa gi Roho Maler,\r\nWachni e moyud duong'.\r\n\r\n4. \r\nNool gweth maduon'g kuomwa:\r\nTo mondo obinwa koro,\r\nKawahulo richowa duto,\r\nKwaluongo Nying Yesu.\r\n\r\n5. \r\nNool gweth maduon'g kuomwa:\r\nKowayie kendo winjo\r\nGi ma Ruoth osechikowa\r\nKawatimo dwaro Mare.",
+    "number": 9
+  }
+},
+{
+  "model": "hymns.hymn",
+  "pk": 10,
+  "fields": {
+    "title": "Wapaki Nyasaye",
+    "lyrics": "1.\r\nWapaki Nyasaye\r\nKuom Wuodi mihero,\r\nKuom Yesu motho,\r\nMochier, modhi e polo.\r\n\r\nHalleluja! Duon'g mari.\r\nHalleluja, amen:\r\nHalleluja! Duon'g mari,\r\nJiwowa koro.\r\n\r\n2. \r\nWapaki Nyasaye\r\nNikech Roho Maler\r\nMonyisowa Jawarwa\r\nMagolo mudho.\r\n\r\n3. \r\nPak kod duon'g\r\nKuom Nyarombo Nyasaye\r\nMosetin'go richowa,\r\nMoluokowa mapoth.\r\n\r\n4. \r\nJiwowa kendo,\r\nPon'g chunywa gi hera\r\nMondo tichwa omoko\r\nGi mach mar polo.",
+    "number": 10
+  }
+},
+{
+  "model": "hymns.hymn",
+  "pk": 11,
+  "fields": {
+    "title": "Ka nawinjo Soko nochwer",
+    "lyrics": "1.\r\nKa nawinjo Soko nochwer,\r\nMar luoko richo duto,\r\nNayie Roho kopenja,\r\nIdwaro doko maler?\r\n\r\nAn apake! An apake!\r\nYesu ma notho kuomwa;\r\nPakeuru un mon'geyo,\r\nNirembe e ma luoko richo\r\n\r\n2.\r\nKata yorni obet madiny,\r\nGik ma yande nahero,\r\nDuon'g kodi ber mar pinyni,\r\nAkwano kagin nono.\r\n\r\n3.\r\nMach mar Nyasaye e mopwodha.\r\nMojiwo chunya koro,\r\nOk naweyo pako Nyinge,\r\nDuon'g obedne pile!\r\n\r\n4.\r\nDuon'g nobed ni Nying Yesu!\r\nAmor nikech herane.\r\nMoweyona richo duto,\r\nMoluoko chunya maler.\r\n\r\n5.\r\nDuon'g, duon'g ni kuom Wuoro!\r\nDuon'g duon'g ni Wuode!\r\nDuon'g, duon'g ni kuom Roho\r\nGin adek to gin achiel!",
+    "number": 11
+  }
+},
+{
+  "model": "hymns.hymn",
+  "pk": 12,
+  "fields": {
+    "title": "Ka Jachien otemi",
+    "lyrics": "1.\r\nKa Jachien otemi, kodwaro loyi.\r\nKa chunyi oani e masicheni:\r\nPar Yesu Ja war ndalo mokonyi.\r\nEn nosiri koro, pod oheri.\r\n\r\nKwan gweth magi,\r\nHul achiel achiel.\r\nKwan gweth magi,\r\nKik wiyi owil;\r\nKwan gweth magi,\r\nHul achiel achiel,\r\nYesu osekonyi,\r\nKik wiyi owil.\r\n\r\n2.\r\nKoso in Ja-Kristo man gi chuny mapek?\r\nTin'go msalabani e wach matek?\r\nPar Yesu Jawarni, chuny mapek noa,\r\nIniyud mor koro, kata e piny ka.\r\n\r\n3.\r\nKineno jomoko man gi pith mag, piny,\r\nMwandugi nokadhi ndalo giko piny;\r\nPar Yesu Jawari, Ruodh polo malo,\r\nGen moloyo Kristo gi pok mosiko.\r\n\r\n4.\r\nKendo e lwenje bed n'gat maber,\r\nWach mar miriambo lo gi maber;\r\nYesu ma Jawari gi malaika,\r\nGinimor moloyo e polo kucha.",
+    "number": 12
+  }
+},
+{
+  "model": "hymns.hymn",
+  "pk": 13,
+  "fields": {
+    "title": "Telona Nyasaye maduon'g",
+    "lyrics": "1.\r\nTelona, Nyasaye maduon'g.\r\nKa awuotho e piny ka;\r\nAn anyap, toin tekona,\r\nRita kod lueti matek.\r\nKuon mar polo, miya chiemo\r\nNyaka ayien'g.\r\n\r\n2.\r\nYawo soko mar ngima\r\nKa pige machango mol;\r\nTelna gi rumbi polo,\r\nGi mach, e wuodha duto.\r\nJares maduon'g, beti koda\r\nGi teko.\r\n\r\n3.\r\nKa awuotho edho Jordan,\r\nGolo luorona e chunya;\r\nTing'a malo pige matho.\r\nNyaka a tund e polo.\r\nWende mag pako, amiye\r\nNyaka chieng.",
+    "number": 14
+  }
+},
+{
+  "model": "hymns.hymn",
+  "pk": 14,
+  "fields": {
+    "title": "An mari Ruodha",
+    "lyrics": "1.\r\nAn mari, Ruodha, nawinjo duondi\r\nKa ninyisa herani,\r\nTo adwar imedna yie koro,\r\nKendo suda iri, Ruoth.\r\n\r\nYuwaya buti, buti, Ruoth man'gwon,\r\nNikech isetho kuoma,\r\nYuwaya buti, buti, Ruodha maduon'g,\r\nNikech nichuwero rembi.\r\n\r\n2. \r\nPwodha koro, Ruoth, mondo atini,\r\nKuom teko mar ng'wononi.\r\nMi chunya geno kuomi pile, Ruoth,\r\nKa gi midwaro,berna.\r\n\r\n3. \r\nMor opong' chunya pile kabiro\r\nNyimi kendo iwinja.\r\nKalami, Nyasacha, man e polo\r\nWan gi winjruok mar adier.\r\n\r\n4. \r\nHerani matut ok anyal ng'eyo\r\nNyaka atundi kuro.\r\nMor mane polo okadho ng'eyo\r\nAnachopi kuom Yesu.",
+    "number": 15
+  }
+},
+{
+  "model": "hymns.hymn",
+  "pk": 15,
+  "fields": {
+    "title": "Achando kony kuomi",
+    "lyrics": "1.\r\nAchando kony kuomi,\r\nRuodha mang'won;\r\nOnge ma dimiya\r\nKwe to mana In.\r\n\r\nKony mari e machando;\r\nAchando kony pile!\r\nGwedha koro, Jawarna,\r\nAbiro iri.\r\n\r\n2.\r\nAchando kony mari,\r\nBed koda, Ruoth;\r\nTem ok noloya ngang'\r\nKa In buta.\r\n\r\n3.\r\nRita pile pile,\r\nKa an-gi mor;\r\nKata aneno lit,\r\nBedi koda.\r\n\r\n4.\r\nAdwari saa duto,\r\nIn Jaler chuth;\r\nLosa abed mari,\r\nRuodha Yesu.",
+    "number": 16
+  }
+},
+{
+  "model": "hymns.hymn",
+  "pk": 16,
+  "fields": {
+    "title": "Yesu dak irit chunya",
+    "lyrics": "1.\r\nYesu, dak irit chunya\r\nObed kuomi pile.\r\nKuwo nitie moaye\r\nSoko mar Kalwari.\r\n\r\nKuom Yath ma nogurie\r\nYesu ma Jawarwa:\r\nEn obed pakna pile\r\nE piny kod e polo.\r\n\r\nNanwang'o ng'wono kuome\r\nKa nayie rembe.\r\nHerane nofwenyore\r\nKa nothonwa e Yath.\r\n\r\n3. \r\nMi chunya neno Yesu,\r\nNyarombo mar Nyasaye.\r\nNaluwe kating'o yath\r\nKaka nowachonwa.\r\n\r\n4. \r\nNikech nothonwa e Yath,\r\nAn agene chutho,\r\nNyaka oluonga adhi\r\nDag e polo malo.",
+    "number": 17
+  }
+},
+{
+  "model": "hymns.hymn",
+  "pk": 17,
+  "fields": {
+    "title": "Yie na ong'i malo",
+    "lyrics": "1.\r\nYie na ong'i malo\r\nNyaromb mar Kalwari,\r\nJawar Maler.\r\nWinja ka alami\r\nWe kethona duto,\r\nYie nyaka ndaloni\r\nAbet kodi.\r\n\r\n2. \r\nNg'wono ni miyo a\r\nTeko kuom chuny mayom,\r\nMedo geno.\r\nKa isetho kuoma\r\nHera na amiyi,\r\nHera mak lokore\r\nHera maduong.\r\n\r\n3.\r\nKa awuotho e piny\r\nChandruok omedore\r\nBedi koda.\r\nYie mudho lokore,\r\nYwe piwang'e chunya,\r\nKik iyie aweyo\r\nButi pile.\r\n\r\n4.\r\nKawuoth e piny mogik\r\nTho na ochiegini\r\nOloyo na.\r\nJawar e heroni,\r\nLuoro weya\r\nTing'a gi chuny maler\r\nEi polo.",
+    "number": 18
+  }
+},
+{
+  "model": "hymns.hymn",
+  "pk": 18,
+  "fields": {
+    "title": "Nyasachwa In Jakonywa",
+    "lyrics": "1.\r\nNyasachwa, In Jakonywa\r\nWageni nyaka chien'g.\r\nIn luandawa magengonwa,\r\nIn thurwa ti mak rum.\r\n\r\n2. \r\nEe Ruoth nikelo jogi ka,\r\nNiritogi mang'won;\r\nTo teko mari e moromo,\r\nTo badi osirowa.\r\n\r\n3.\r\nKapok ichweyo piny ginam,\r\nGi moro podi onge;\r\nTo nyaka nene In Nyasaye,\r\nKamano nyaka chien'g.\r\n\r\n4.\r\nHikwa mathoth e nyim Nyasaye\r\nGilal ka chieng' achiel,\r\nGikadho kaka ru mar piny'\r\nTo In min'geyowa.\r\n\r\n5.\r\nTondalo piny otero ji,\r\nE piny gidak matin;\r\nTo wiyi ok owil kodgi,\r\nIparogi adier.\r\n\r\n6. \r\nNyasachwa, In Jakonywa chon,\r\nWageni nyaka chieng';\r\nIritowa ka pod wan ka,\r\nIn thurwa mak orum.",
+    "number": 19
+  }
+},
+{
+  "model": "hymns.hymn",
+  "pk": 19,
+  "fields": {
+    "title": "Yesu In misangona",
+    "lyrics": "1.\r\nYesu, In misangona,\r\nIn nitho kuom richona.\r\nPi gi remo ma nochwer\r\nA e ng'eti, Kalvari,\r\nChango chunya chutho ka,\r\nIresa e buch richo.\r\n\r\n2. \r\nTich mar lueta ok onyal\r\nRomo chikni maradier;\r\nKata atimo kinda chuth,\r\nKata ayuagora malit:\r\nMagi ok oresa to\r\nIn miresa, In I wuon.\r\n\r\n3.\r\nOk gi moro okonya to\r\nMana Msalapino.\r\nDenda nono, ruaka Ruoth;\r\nMia ng'wononi, anyap;\r\nDenda rach, achando pi,\r\nYesu luoka, kik atho.\r\n\r\n4. \r\nTo ka pod angima ka,\r\nLosa kare In I wuon.\r\nKa naa e pinywa to\r\nNeni e polo cha;\r\nYesu, In misangona,\r\nIn nitho kuom richona.",
+    "number": 20
+  }
+},
+{
+  "model": "hymns.hymn",
+  "pk": 20,
+  "fields": {
+    "title": "Wuo gi chunya",
+    "lyrics": "1.\r\nWuo gi chunya, Ruoth Yesu,\r\nNyisa wach kakobet\r\nKa niwacho gi ng'wono\r\nOk niweya kenda.\r\nYaw chunya mondo awinji\r\nPiyo kiwuoyona.\r\nDhoga to mondo opaki\r\nKamor kuomi chutho.\r\n\r\nWuo koda ndalo duto\r\nKinyisa herani\r\nNimondo alo richo\r\nKa wuotho kuom Roho.\r\nWuo koda ndalo duto\r\nKuom wachni mar ng'wono,\r\nAgeno singruok mari\r\nOk niweya kenda.\r\n\r\n2. \r\nWuogi nyithindi pile,\r\nTergi e yo maler,\r\nPong'gi kod hera gi mor,\r\nPuonjgi rito lamo\r\nMondo giwalni chunygi\r\nKod ngimagi bende\r\nMondo pinyruodhi obi\r\nWananeni, Yesu.\r\n\r\n3.\r\nWuokoda koro,Yesu,\r\nNyisa gi midwaro\r\nMondo atini pile\r\nKamako chik duto!\r\nKeta amii duong',\r\nKonya nyiso pakni\r\nGi mor natim dwaroni\r\nKaluori pile.",
+    "number": 21
+  }
+},
+{
+  "model": "hymns.hymn",
+  "pk": 21,
+  "fields": {
+    "title": "Saa mar lamo",
+    "lyrics": "1.\r\nSaa mar lamo, e mamorgo,\r\nOmiya yuweyo e chandruok,\r\nOmiya kinde mar nyiso\r\nWuora gik machando chunya,\r\nMohoyo chunya kata pek,\r\nKosira giteko mare,\r\nMaloyogo tem maricho\r\nKatimo kinda kuom lamo.\r\n\r\n2.\r\nSaa mar lamo e mamorgo;\r\nOmiyo kwayona duto\r\nChopo ir Wuora mae polo,\r\nModwaro gwedha e chunya.\r\nOnyisa mondo asud ire\r\nKayie Wachne kendo gene,\r\nOting'ona parruok duto\r\nKatimo kinda kuom lamo.\r\n\r\n3. \r\nSaa mar lamo e mamorgo,\r\nOtega kuom wuodha duto,\r\nNyaka chieng'moro anadhi\r\nDala mani e polo cha;\r\nChandruok duto mag piny orum.\r\nKaneno Ruodha wang' gi wang',\r\nMi nabet elerne nyime,\r\nKapake to kwayo onge.",
+    "number": 22
+  }
+},
+{
+  "model": "hymns.hymn",
+  "pk": 22,
+  "fields": {
+    "title": "Yesu en Ja konywa",
+    "lyrics": "1.\r\nYesu en Ja konywa,\r\nEn notho kuom richowa,\r\nEn odwaro mondo wahul,\r\nRichowa chutho\r\nWachandore kayiem,\r\nNikech ok wakway tekone\r\nNikech wamung'o moko,\r\nMa ni e chunywa.\r\n\r\n2.\r\nKata wasandore,\r\nKendo richo dwaro kethowa,\r\nKwakwayo teko Ruodhwa,\r\nEre ng'ato man e piny ka\r\nMa di konywa ka Yesu?\r\nEn ong'eyo chunywa duto,\r\nBer walame pile.\r\n\r\n3. \r\nKa tekowa onge,\r\nKendo tich dwaro loyowa,\r\nYesu dimednwa teko,\r\nKawakwaye pile,\r\nKa jo-chiende bembowa,\r\nKata gikwedore kodwa,\r\nYesu en osiepwa maduong',\r\nEn oherowa ngang",
+    "number": 23
+  }
+},
+{
+  "model": "hymns.hymn",
+  "pk": 23,
+  "fields": {
+    "title": "Kuom Yesu amiyi chunya",
+    "lyrics": "1.\r\nKuom Yesu amiyi chunya\r\nMiyi chunya duto te;\r\nAn aheri, an ageni\r\nAn adak kodi pile.\r\n\r\nAmiyi chunya\r\nAmiyi chunya,\r\nKuomi Yesu Jawarna,\r\nAmiyi chunya.\r\n\r\n2.\r\nKuom Yesu amiyi chunya\r\nApodho e tiendi;\r\nGik mag pinyni aseweyo\r\nKawa Yesu kawa te.\r\n\r\n3.\r\nKuom Yesu amiyi chunya\r\nKonya mondo abed kodi:\r\nNyaka Roho Maler opong'o\r\nChunya, gi teko mari.\r\n\r\n4.\r\nKuom Yesu amiyi chunya\r\nRuoth amiyi chunya te;\r\nPong' chunya gihera mari\r\nKuom gwethni ariti.",
+    "number": 24
+  }
+},
+{
+  "model": "hymns.hymn",
+  "pk": 24,
+  "fields": {
+    "title": "Tim dwaroni Ruoth",
+    "lyrics": "1.\r\nTim dwaroni, Ruoth! Tim dwaroni!\r\nIn e Jachwech; to an lowo kende.\r\nChweya kilosa kuom dwaroni.\r\nKapod arito, kayie adier.\r\n\r\n2. \r\nTim dwaroni, Ruoth! Tim dwaroni!\r\nRanga kitema kawuono, Ruoth.\r\nPwodha girembi, luoka maler,\r\nKaling'e nyimi kendo ka muol.\r\n\r\n3. \r\nTim dwaroni, Ruoth! Tim dwaroni!\r\nChunya otore, konya koro.\r\nTeko duto, Ruoth, e man kuomi;\r\nMula kichanga, Ja war maler.\r\n\r\n4. \r\nTim dwaroni, Ruoth! Tim dwaroni!\r\nIn mondo iloya, chutho pile;\r\nPong'a gi Roho mi ji one\r\nRuoth Yesu kende en ngimana.",
+    "number": 25
+  }
+},
+{
+  "model": "hymns.hymn",
+  "pk": 25,
+  "fields": {
+    "title": "Nachiwo ngimana",
+    "lyrics": "1. \r\nNachiwo ngimana, remba nochwer kuomi\r\nNi mondo owari e tho mar richoni;\r\nNachiwo ngimana kuomi, to in imiya ang'o?\r\nNachiwo ngimana kuomi, to in imiya ang'o?\r\n\r\n2.\r\nOd Wuora man e polo, gi kom duong' mar loch,\r\nNaweyo kanabiro, e piny ma nosanda;\r\nKuomi, kuomi naweyogi, ang'o miweyona?\r\nKuomi, kuomi naweyogi, ang'o miweyona?\r\n\r\n3.\r\nNachandora kuomi, moloyo paroni,\r\nKa nating'o richoni, nyaka natho e Yath,\r\nNachandora kama kuomi, ang'o miting'ona?\r\nNachandora kama kuomi, ang'o miting'ona?\r\n\r\n4.\r\nKoro akeloni, gweth moa e polo,\r\nWeruok mar richo duto, warruok gi herana\r\nAkeloni mich madongo, to in imiya ang'o?\r\nAkeloni mich madongo, to in imiya ang'o?",
+    "number": 26
+  }
+},
+{
+  "model": "hymns.hymn",
+  "pk": 26,
+  "fields": {
+    "title": "Yesu isethona koro aheri",
+    "lyrics": "1.\r\nYesu, isethona, koro aheri.\r\nKuom tekoni anawe richo duto\r\nNikech In Jawarna mang'uon maduong'\r\nKoro Yesu Kristo aheri adier.\r\n\r\n2. \r\nAheri nikech ihera mokuongo\r\nNyaka iseting'o richona e yath\r\nKaka nichandori kuom richo duto\r\nKoro Yesu Kristo aheri adier.\r\n\r\n3.\r\nAheri kangima kata katho\r\nKendo anapaki ndalo duto ka,\r\nAnaporo pile kuomi, Jawarna.\r\nKoro Yesu Kristo aheri adier.\r\n\r\n4. \r\nAnamii duong' eute polo\r\nKadhi bedo kodi kuno nyaka chieng'.\r\nKa wer kod osimbo mar ngima mar Nyasaye,\r\nKoro Yesu Kristo aheri adier.",
+    "number": 27
+  }
+},
+{
+  "model": "hymns.hymn",
+  "pk": 27,
+  "fields": {
+    "title": "Chunya wuoro kaparo Yath",
+    "lyrics": "1.\r\nChunya wuoro kaparo Yath\r\nKa ma Ruoth Yesu nothona.\r\nDuto ma an go ni nono,\r\nOk awinjora gi herane.\r\n\r\n2.\r\nKik apak gi moro ka\r\nMak mana tho mar Ruoth Yesu.\r\nGik moko mae piny mahero\r\nAweyogi nikech rembe.\r\n\r\n3. \r\nNeuru herane kuomwa\r\nKoting'o richowa Owuon.\r\nNe giketo osimbo kudho\r\nE wi Jawarwa mang'won.\r\n\r\n4. \r\nMwandu duto ma ni e piny\r\nNobedo mich matin kuome.\r\nOwinjore achiwone\r\nChunya gi ngima kod duto.",
+    "number": 28
+  }
+},
+{
+  "model": "hymns.hymn",
+  "pk": 28,
+  "fields": {
+    "title": "Biuru jo Nyasaye",
+    "lyrics": "1.\r\nBiuru jo Nyasaye,\r\nMohero En adier,\r\nWeruru gi chuny achiel,\r\nWeruru gi chuny achiel,\r\nKwachokore enyim Nyasaye,\r\nKwachokore enyim Nyasaye.\r\n\r\nWadhiyo piny Ruodhwa,\r\nDala maber mar Nyasachwa;\r\nWachiko wang'wa ni Sayun,\r\nEn dala maber mar Nyasaye.\r\n\r\n2. \r\nJopiny mokiya Nyasaye,\r\nMondo giling' koro;\r\nTo wan nyithinde wanawer,\r\nTo wan nyithinde wanawer,\r\nKwapako Ruodh polo,\r\nKwapako Ruodh polo.\r\n\r\n3.\r\nNyithindo mag Nyasaye\r\nGimor gilala ka,\r\nKa pok gitundo par Nyasaye,\r\nKa pok gitundo par Nyasaye,\r\nKa pod giwuotho ka,\r\nKa pod giwuotho ka.",
+    "number": 29
+  }
+},
+{
+  "model": "hymns.hymn",
+  "pk": 29,
+  "fields": {
+    "title": "Wang' gi wang' gi Ruoth",
+    "lyrics": "1.\r\nWang' gi wang' gi Ruoth Jawarna,\r\nWang' gi wang' en manade?\r\nKa abiro ng'iyo Yesu,\r\nYesu Kristo nothona.\r\n\r\nWang' gi wang' nabiro ng'iye.\r\nEn mabor polo malo.\r\nWang' gi wang' gi duong' mare,\r\nNabiro nene kurno.\r\n\r\n2.\r\nKoro anene ka ngero,\r\nEka chieng' mos wang' gi wang'\r\nKoro ang'eyo moro nono,\r\nEka chieng' moro nane duong'ne.\r\n\r\n3. \r\nMor maduong' ka wanene,\r\nKa chandruok maga norum.\r\nKayore mobam oloko,\r\nGik momudho orienyna.\r\n\r\n4. \r\nWang' gi wang' en chieng' mabiro,\r\nWang' gi wang' ka wang'eye.\r\nWang' gi wang' kod Jawarna,\r\nYesu Kristo mohera.",
+    "number": 30
+  }
+},
+{
+  "model": "hymns.hymn",
+  "pk": 30,
+  "fields": {
+    "title": "Otelona koro amor",
+    "lyrics": "1.\r\nOtelona, koro amor,\r\nNikech Yesu otelona;\r\nKa madhiye, ka mabetie,\r\nKoro Yesu otelona.\r\n\r\nOtelona, otelona,\r\nYesu Ruodha otelona,\r\nAdwaro luwe gi kinda,\r\nNikech Yesu otelona.\r\n\r\n2. \r\nNdalo moro piny orachna,\r\nNdalo moro piny oberna,\r\nTo kata ber, to kata rach,\r\nKoro Yesu otelona.\r\n\r\n3. \r\nAnadwaro mako chinge,\r\nEka chunya nomor chutho,\r\nKayieng' gi gik ma nomiya,\r\nNikech Yesu otelona.\r\n\r\n4.\r\nTo ka tichna mar piny orumo,\r\nKuom ng'wonone nadhiye Polo,\r\nOk analuor kata atho\r\nNikech Yesu otelona.",
+    "number": 31
+  }
+},
+{
+  "model": "hymns.hymn",
+  "pk": 31,
+  "fields": {
+    "title": "Ahero nyiso weche",
+    "lyrics": "1.\r\nAhero nyiso weche\r\nMoa kuom Nyasachwa;\r\nKuom Yesu gi duong'ne,\r\nKaka noherowa.\r\nAhero nyiso weche\r\nNikech gin adiera\r\nMoromo chunya pile\r\nMoloyo duto te.\r\n\r\nAhero nyiso weche,\r\nMobedo morna pile,\r\nKahulie weche adier\r\nKuom hera mar Yesu.\r\n\r\n2. \r\nAhero nyiso weche,\r\nMa wuoro ahinya,\r\nNikech pile kahulo\r\nChunya omor chutho.\r\nAhero nyiso weche\r\nNi ji ma pok omako,\r\nWechego kuom warruok\r\nMan e kitap Nyasaye.\r\n\r\n3.\r\nAhero nyiso weche\r\nNi ji moseng'eyo\r\nGinyalo winjo kendo\r\nMondo gidongogo.\r\nKa watundo e polo\r\nWanawer malong'o,\r\nWeche ma wahero ka\r\nKuom hera mar Yesu.",
+    "number": 32
+  }
+},
+{
+  "model": "hymns.hymn",
+  "pk": 32,
+  "fields": {
+    "title": "Nawuotho e yo mar mudho",
+    "lyrics": "1.\r\nNawuotho e yo mar mudho\r\nNyaka Yesu obi:\r\nKa gi chieng' mar herane\r\nNogolo mudho te.\r\n\r\nChieng' rieny, chieng' rieny\r\nE chunya koro,\r\nChieng' rieny, chieng' rieny\r\nEyore duto.\r\nKa Yesu noyuda, golo richona\r\nAngi chieng' mar herane e chuny koro.\r\n\r\n2.\r\nKa boche polo chokore\r\nGi ahiti uma;\r\nKa mudho e piny medore,\r\nAngi chieng' e chunya.\r\n\r\n3.\r\nKawuotho e chieng' mar Nyasaye\r\nAlalore kuome;\r\nAluwo bang'e gi lerne,\r\nA weyo gik mag piny.\r\n\r\n4. \r\nAbiro nene kakobet\r\nE ndalo mabiro;\r\nAbiro nene wang' gi wang'\r\nE polo nyaka chieng'",
+    "number": 33
+  }
+},
+{
+  "model": "hymns.hymn",
+  "pk": 33,
+  "fields": {
+    "title": "Remb Jawar e ma nochwerna",
+    "lyrics": "1.\r\nRemb Jawar e ma nochwerna,\r\nKa Ruoth noyie tho,\r\nEn Maler nochiworena\r\nMa ok owinjorena.\r\n\r\nE kuom Yath mar Yesu nakwongo neno ler,\r\nMa nogolo richo man e chunya,\r\nKuom yie rembe ma nochuwerona,\r\nOmiya mor ndalo duto.\r\n\r\n2. \r\nNikech richo ma natimo,\r\nNogure e Yadhno,\r\nChunya wuoro ng'wono ka ma.\r\nEn hera mokadho,\r\n\r\n3.\r\nChieng' nolokore ka mudho\r\nKa Ruoth Polo notho;\r\nEn Yesu Kristo Wuod Nyasaye\r\nMa noting'o richo\r\n\r\n4.\r\nYuak gi pi wang' ok dochul\r\nGowi mar herane;\r\nChunya e machiwoni, Ruoth,\r\nAbed ng'ati kende.",
+    "number": 34
+  }
+},
+{
+  "model": "hymns.hymn",
+  "pk": 34,
+  "fields": {
+    "title": "Areto kawuotho e yo",
+    "lyrics": "1.\r\nAreto kawuotho e yo\r\nMadhi malo ndalo duto:\r\nKalamo pile mondo Ruoth\r\nOting'a malo moloyo.\r\n\r\nRuoth, ting'a malo mond' achung',\r\nKayie wecheni duto,\r\nMed ting'a malo moloyo,\r\nAbed kapakoi pile.\r\n\r\n2. \r\nChunya ok gomb siko e piny\r\nKama chich gi luoro nitie:\r\nTo adwaro loyogi te,\r\nE malami ting'a malo.\r\n\r\n3.\r\nAdwaro loyo gik mae piny\r\nMa Jachien diwuondago;\r\nLoch mwaloyogo piny en yie.\r\nGenona ni kuomi pile.\r\n\r\n4.\r\nAdwaro bedo motegno\r\nNyaka ane mor e Polo;\r\nE momiyo pod alami.\r\n\"Ruoth, ting'a malo moloyo\".",
+    "number": 35
+  }
+},
+{
+  "model": "hymns.hymn",
+  "pk": 35,
+  "fields": {
+    "title": "Bedi koda piny koro oyusona",
+    "lyrics": "1.\r\nBedi koda, piny koro oyusona;\r\nPolo to chido, Yesu bed koda;\r\nKa onge moro ma dikonya,\r\nJakony jochan lwuon, bedi koda.\r\n\r\n2.\r\nChien'g ndalona to koro orumona;\r\nGik ma nagombo tinde okadhona;\r\nDuto maneno lokore to tho,\r\nIn mak ilokori, bedi koda.\r\n\r\n3.\r\nPile achando, pile adwaro In,\r\nIn kendi' iloyo teko ma Jachien;\r\nIn kendi' itera, In midembo an;\r\nE mudho kendo e chieng', bedi koda.\r\n\r\n4.\r\nOnge ma luoro, In kibet koda;\r\nEka masira dak oloya ngang';\r\nTeko mar tho gi liel igolo ka,\r\nAn bende anyalogi, ka In koda.\r\n\r\n5.\r\nChieng' tho inyisa kaka In nitho,\r\nKa piny ochido polo ek' orieny:\r\nPiny cha noru, to mudho duto' rumo\r\nKangima kat' atho, bedi koda",
+    "number": 13
+  }
+},
+{
+  "model": "hymns.hymn",
+  "pk": 36,
+  "fields": {
+    "title": "An aseyie Yesu Ruoth",
+    "lyrics": "1.\r\nAn aseyie Yesu Ruoth,\r\nAsingora mondo awuoth,\r\nE yorene mika asetho,\r\nAchope pinje mae polo.\r\n\r\nPiny polo ber; piny polo ber,\r\nMa Yesu miyo joma ler,\r\nAgombo mondo adonjee,\r\nKama masira ong'eye,\r\nA Yesu Ruoth Ahombi,\r\nRita mang'won akwayi.\r\n\r\n2.\r\nKaparo gik maseketho,\r\nMa rohoni osefwenyo,\r\nChunya ochandore malit,\r\nMiya awinj duondi mamit.\r\n\r\n3.\r\nMiyo kapoda ngirna ka,\r\nKwom richona duto oa,\r\nMiyoni kikawe kedo,\r\nKodi piny gi gombo gi richo.\r\n\r\n4.\r\nMiya akony jowetena,\r\nAlu Jasamaria cha,\r\nAtine ji an ka adwaro,\r\nMondo gitina kwom duto.",
+    "number": 36
+  }
+},
+{
+  "model": "hymns.hymn",
+  "pk": 37,
+  "fields": {
+    "title": "Adwaro ng'eyo ka Yesu",
+    "lyrics": "1.\r\nAdwaro ng'eyo ka Yesu\r\nNokecha ka yande nalal,\r\nOmiya ngima mak norum.\r\nKodi ng'wono amor kode.\r\n\r\nAdwaro Wach Yesu,\r\nAdwaro Wach Yesu,\r\nMedna ng'eyo warruok chutho,\r\nKodi ng'wonone man kuoma.\r\n\r\n2.\r\nWach mar Yesu apuonjora,\r\nMondo ang'e gi modwaro.\r\nRoho Maler otelona,\r\nEn opuonja ndalo duto.\r\n\r\n3.\r\nAdwaro somo Wach mare.\r\nOmiya winjruok kod Ruodha\r\nKa winjo duonde kuom weche.\r\nEn nobed maduong, kuoma.\r\n\r\n4. \r\nAdwaro winjo kuom Yesu.\r\nWeche duto mar duong'ne.\r\nKaka oloyo piny duto.\r\nRuodh mirembe nowir kendo.",
+    "number": 37
+  }
+},
+{
+  "model": "hymns.hymn",
+  "pk": 38,
+  "fields": {
+    "title": "Ende wadhiuruwa",
+    "lyrics": "1.\r\nEnde wadhiuruwa. Wan joluenj Kristo.\r\nMsalap Ruoth Yesu E modhi nyimwa.\r\nRuodhwa e motelonwa Ni wasikwa ka;\r\nEnde wadhiuru tinde. Wan joluenj Kristo.\r\n\r\nEnde wadhiuru.\r\nWan joluenj Kristo.\r\nMsalap Ruoth Yesu\r\nE modhi nyimwa.\r\n\r\n2.\r\nKa jo-Kristo timo chir. Jo-Jachien\r\nWanalo wasigu. Ka wayikore.\r\nTo wapak Jatelowa. Mi wamor adier;\r\nWan jolueny mogeno Yesu.\r\nE momiwa mor.\r\n\r\n3.\r\nPile bedi kodwa ka, Nyiswa yo maber;\r\nMiwa locho chutho Gik matemowa;\r\nKendo Jomalaika Sirowa e lueny,\r\nBang'e to iruakwa malo, Paradiso mokwe.\r\n\r\n4.\r\nWan oganda Ruoth Yesu, Joge maradier;\r\nTo jo-Kristo duto Gin owetewa;\r\nEe, wawuotho kaachiel, Ok wapogore;\r\nWan achiel kuom geno, hera, Tim maler duto.\r\n\r\n5.\r\nKata pinje lokore, Duong' mar piny olal,\r\nTo Kanisa Yesu Chweyo nyaka chieng;\r\nTho gi liel ok nyale ngang'\r\nLuanda mar Yesu;\r\nEnde wadhiuru tinde, Wanjoluenj Kristo.",
+    "number": 38
+  }
+},
+{
+  "model": "hymns.hymn",
+  "pk": 39,
+  "fields": {
+    "title": "Yesu bed Jakwadhwa",
+    "lyrics": "1.\r\nYesu, bed Jakwadhwa ndalo duto,\r\nWachando ritni kuomwa;\r\nPidh chunywa gi Wachni pile pile.\r\nLosnwa gigi mabeyo.\r\nWapaki, Ruodhwa Yesu,\r\nNing'iewowa, wan magi,\r\nWapaki, Ruodhwa Yesu,\r\nNing'iewowa, wan magi.\r\n\r\n2.\r\nWan magi, bed kodwa ndalo duto,\r\nTelnwa e yori pile,\r\nRit kwedhi, geng'wa e richo duto,\r\nDwarwa di po wabayo.\r\nWapaki, Ruodhwa Yesu,\r\nWinjwa kod gi mwakwayo,\r\nWapaki, Ruodhwa Yesu,\r\nWinjwa kod gi mwakwayo.\r\n\r\n3. \r\nYesu, ihero ruako nyithindo,\r\nWan gi richo kodi chan,\r\nIn gi ng'wono manyalo weyowa,\r\nLuokwa gi rembi maler.\r\nWapaki, Ruodhwa Yesu,\r\nKonywa mondo walok're.\r\nWapaki, Ruodhwa Yesu,\r\nKonywa mondo walok're.\r\n\r\n4.\r\nDak igwedhwa ka pod wan nyithindo,\r\nKonywa timo dwaroni.\r\nRuoth Yesu, In e Jawarwa kende,\r\nPong' chunywa gi herani. Wapaki,\r\nRuodhwa Yesu, Iseherowa chutho.\r\nWapaki, Ruodhwa Yesu,\r\nIseherowa chutho.",
+    "number": 39
+  }
+},
+{
+  "model": "hymns.hymn",
+  "pk": 40,
+  "fields": {
+    "title": "Keduru jo ka Yesu",
+    "lyrics": "1.\r\nKeduru jo ka Yesu,\r\nJokedo mar Kristo;\r\nKeluru kuodi magu,\r\nMakuru tong' giluth.\r\nYesu Jageng'a marwa,\r\nOtelonwa maber;\r\nWeuru uduto luoro,\r\nKeduru ka mager.\r\n\r\n2. \r\nKeduru jo ka Yesu,\r\nWasigu mawa kwiny;\r\nTo Yesu en kokonyowa\r\nWanyalo loyo en;\r\nJachien en jasigu,\r\nMadwaro negowa.\r\nKwaluwo bang' Yesu,\r\nWabiro hewogi.\r\n\r\n3.\r\nKeduru joka Yesu,\r\nNdalo odong' matin;\r\nTinende wadhi kedo;\r\nKiny wadhi weyo lueny;\r\nMohewo e moyudo\r\nE polo mor mathoth\r\nTo higini gi higini,\r\nOsiki kodi Ruoth.",
+    "number": 40
+  }
+},
+{
+  "model": "hymns.hymn",
+  "pk": 41,
+  "fields": {
+    "title": "Wagenuru singruok duto",
+    "lyrics": "1.\r\nWagenuru singruok duto mag Ruodhwa\r\nWechene en adier mondo wapake,\r\nNdalo duto wanamiye duong' ka,\r\nWanamor kuom weche mag Nyasaye.\r\n\r\nGenuru Wach,\r\nGenuru Wach mar Ruodhwa Nyasaye\r\nJawarwa;\r\nGenuru Wach,\r\nNikech singruokne en adier chutho.\r\n\r\n2. \r\nGenuru nikech Wachne e mosiko.\r\nKa chich gi luoro manadi ni kuomi,\r\nWach mangima mar Nyasachwa oloyo\r\nWanamor kuom singruok mar Ruodhwa\r\n\r\n3. \r\nWagenuru singruok duto mag Ruodhwa\r\nNikech herane wadoko nyithinde,\r\nKwawuoth kuom ler mar Roho ok waluor\r\nWanamor kuom weche mag Nyasaye.\r\n\r\n4.\r\nWageneuru singruok duto mag Ruodhwa\r\nGi teko mar Roho ok wawe geno\r\nYesu ma Jawar omiyo waloyo,\r\nWanamor kuom weche mag Nyasaye.",
+    "number": 41
+  }
+},
+{
+  "model": "hymns.hymn",
+  "pk": 42,
+  "fields": {
+    "title": "Tim kinda mar lamo",
+    "lyrics": "1.\r\nTim kinda mar lamo, kiwuoyo gi Ruoth,\r\nPidh chunyi gi Wachne kibedo kuome.\r\nLal'ri gi Jo-Kristo, kony  jogo manyap,\r\nTo kik wiyi wil ngang' kuom dwaro gwethne.\r\n\r\n2. \r\nTim kinda mar lamo, piny kadho piyo,\r\nBed kode kipondo, kuom Yesu kende,\r\nTing' wang'i kuom Yesu, ibedi ka En.\r\nMi ji moko nong'e Yesu nikodi.\r\n\r\n3. \r\nTim kinda mar lamo, Ruoth oteloni,\r\nKik iring e nyime, kata ringo chien,\r\nE mor kata chuny lit, luw Yesu pile,\r\nKet wang'i kuom Yesu, kigeno Wachne.\r\n\r\n4. \r\nTim kinda mar lamo, opwodho chunyi,\r\nParo kod tich duto, obedi kuome,\r\nRoho noteloni, nomiyi hera,\r\nNolosi kuom tichne, e polo malo.",
+    "number": 42
+  }
+},
+{
+  "model": "hymns.hymn",
+  "pk": 43,
+  "fields": {
+    "title": "Anawer wende malong'o",
+    "lyrics": "1.\r\nAnawer wende malong'o,\r\nKaka noherowa mokwongo,\r\nKaka nowarowa gi rembe,\r\nWanamor ei polo nyaka chieng'.\r\n\r\nWanamor nyaka chieng',\r\nWanamor kawatundo e gweng'no,\r\nWanamor nyaka chieng\r\nWanamor kawatundo e polo.\r\n\r\n2.\r\nEnochangwa owarwa bende,\r\nGi remo mar Nyarombone,\r\nOmiyowa mor koro chutho,\r\nKuom Jakony ma polo nyaka chieng'.\r\n\r\n3.\r\nKawuono omiyo wan gi mor,\r\nNikech ber mar Jahera nogo,\r\nTo kwatundo ire ndalono,\r\nWanapak Nyinge nyaka chieng'.\r\n\r\n4.\r\nKa watimo kinda e Nyinge,\r\nNyaka Yesu oduog e piny,\r\nEnoruakwa gi ng'wonone,\r\nWanamor kode chuth nyaka chieng'.\r\n\r\n5.\r\nTo nitie kite malong'o,\r\nMar Jaler onogono,\r\nMondo ji duto ng'eyo bende,\r\nKonyruok ma ni kuome nyaka chieng'.",
+    "number": 43
+  }
+},
+{
+  "model": "hymns.hymn",
+  "pk": 44,
+  "fields": {
+    "title": "E chunya nitie wer mamit",
+    "lyrics": "1.\r\nE chunya nitie wer mamit\r\nNikechYesu wuoyo koda;\r\n\"Kik iluor, antie, abet kodi,\"\r\nWuoth mar ndalo duto te.\r\n\r\nYesu, Yesu, Yesu,\r\nNying mamitna ngang',\r\nEn moroma chutho Pile\r\nEn nomia mor\r\n\r\n2. \r\nNgimana noketho gi richo\r\nChunya pong' gi sin gi lit ahinya;\r\nKa Yesu noodonj e chunya\r\nNogolo richona te.\r\n\r\n3. \r\nKa wachamo chiembe mar ng'wono\r\nYweyo e bwo tipo mar buombeni;\r\nKa ang'iyo pile e wang'e\r\nChunya bedo gi mor ne.\r\n\r\n4. \r\nYesu biro duogo omowa\r\nOa boche polo malo;\r\nAnadhi kode e piny manyien\r\nAnaloch kode e polo.",
+    "number": 44
+  }
+},
+{
+  "model": "hymns.hymn",
+  "pk": 45,
+  "fields": {
+    "title": "Ber kwageno Yesu Kristo",
+    "lyrics": "1.\r\nBer kwageno Yesu Kristo,\r\nKendo wayie kuome pile.\r\nKawayuweyo kuome pile,\r\nWawinji maseluwo.\r\n\r\nYesu Kristo Wuod Nyasachwa.\r\nMond ikonyowa ndalo duto,\r\nYesu Kristo Wuod Nyasachwa.\r\nMad ikonywa ndalo duto.\r\n\r\n2.\r\nBer kwageno Yesu Kristo,\r\nKa nowewa e richowa.\r\nMed' luoko chunywa duto,\r\nGi rembe ma nochuwernwa.\r\n\r\n3. \r\nBer kwageno Yesu Kristo,\r\nEn odagi richowa,\r\nMed' gonyowa e richowa,\r\nGi rembe mosechuwer.\r\n\r\n4. \r\nAn adwaro paki pile.\r\nYesu en osiepna kende,\r\nMondo' idag e chunya pile.\r\nEn aritwa ndalo duto.",
+    "number": 45
+  }
+},
+{
+  "model": "hymns.hymn",
+  "pk": 46,
+  "fields": {
+    "title": "Tiuru tiuru",
+    "lyrics": "1.\r\nTiuru, tiuru, Wan jotich mag Nyasaye.\r\nWanalu yo Nyasaye kaka Ruoth osedhi.\r\nKod wachne gi rieko, momiyowa teko,\r\nWanati gi teko tich duto wanane.\r\n\r\nTiuru, tiuru, tiuru, tiuru,\r\nWanagen, wanarit gi lemo,\r\nGi tiyo nyaka Ruoth obi.\r\n\r\n2.\r\nTiuru, tiuru, mi chiemo kuom jokech.\r\nE soko mar ngima, telo ni jo maojony.\r\nE musalaba gi bendechewa mar duong'.\r\nKa wahulo weche - \"Warruok en nono.\"\r\n\r\n3.\r\nTiuru, tiuru, tich nitie kuom ji te.\r\nNikech piny Ruoth mudho gi ketho nopodho.\r\nGi nyinge mar Nyasaye wanating' a malo.\r\nE weche madongo - \"Warruok en nono.\"\r\n\r\n4.\r\nTiuru, tiuru, tiuru nyaka giko,\r\nNikech keyo nobi, gi jotich kuom keno.\r\nGi kar bet mar malo, e dala jo mowar,\r\nGi weche nyaka chieng' - \"Warruoken nono.\"",
+    "number": 46
+  }
+},
+{
+  "model": "hymns.hymn",
+  "pk": 47,
+  "fields": {
+    "title": "Lalruok en mamit",
+    "lyrics": "1.\r\nLalruok en mamit, kod Jawarwa\r\nKa apadora e bede Yesu.\r\nGweth maduong' nitie, kuome omiyowa\r\nKa apadora ebede Yesu.\r\n\r\nPadori, padori,\r\nOwarowa, oritowa;\r\nPadori, padori,\r\nPadori e bede mosiko.\r\n\r\n2. \r\nYo mar jawuoth, en wuoth mamit\r\nKa apadora e bede Yesu.\r\nYo obedo ler, ndalo duto te\r\nKa apadora e bede Yesu.\r\n\r\n3.\r\nAn gi luor ang'o, ka Jawar nikoda,\r\nKa apadora ebede Yesu.\r\nAn gi kwe maduong' ka Ruoth chiegni\r\nKa apadora e luet Yesu.",
+    "number": 47
+  }
+},
+{
+  "model": "hymns.hymn",
+  "pk": 48,
+  "fields": {
+    "title": "Kawawuotho gi Ruodhwa",
+    "lyrics": "1. \r\nKawawuotho gi Ruodhwa\r\nE ler mar wechene,\r\nMor maduong' momiyowa ka!\r\nKawatimoni Nyasaye\r\nGik modwaro duto,\r\nEn ogwedhowa gi hawi mare.\r\n\r\nYie gi tim;\r\nOlong'o ni Nyasaye\r\nOkelo mor e chunywa,\r\nKwageno kuom Yesu.\r\n\r\n2. \r\nOk wanyal bedo\r\nE mudho mar jo-piny\r\nNikech hera mar Yesu ni kuomwa.\r\nOk wayie koro\r\nKuom lisweche moko\r\nWayie rembe Yesu kende.\r\n\r\n3. \r\nOnge tuo moro\r\nKata tho manyalo\r\nGeng'wa kuom hera mar Yesu,\r\nNikech Yesu nochier, Wan bende moyie\r\nWan bende moyie,\r\nWabiro kode kuno.\r\n\r\n4.\r\nWan gi lalruok maber\r\nKode Jawarwa\r\nGi lamo kuom Roho mar Nyasaye.\r\nKwachiwore kuome\r\nKendo doko jo-tichne\r\nNopong' chunywa gi mor maduong'.",
+    "number": 48
+  }
+},
+{
+  "model": "hymns.hymn",
+  "pk": 49,
+  "fields": {
+    "title": "Tiuru Yesu obiro",
+    "lyrics": "1.\r\nTiuru, Yesu obiro,\r\nKolor e koth polo,\r\nLunigiuru pile,\r\nYesu wir' e piny.\r\nPuonjuru wach Yesu,\r\nTo mano tich marwa;\r\nTiuru, Yesu obiro,\r\nOmo jo moyie.\r\n\r\n2. \r\nTiuru, Yesu obiro,\r\nTiuru tich maru:\r\nYesu dwar konyou\r\nGi teko mare.\r\nPuonjuru wach Yesu,\r\nTo mano tich marwa; Tiuru,\r\nYesu biro, omo jo moyie.",
+    "number": 49
+  }
+},
+{
+  "model": "hymns.hymn",
+  "pk": 50,
+  "fields": {
+    "title": "Kik yie tem oloyi",
+    "lyrics": "1.\r\nKik yie tem oloyi, Richo dikethi.\r\nIn to ked lueny maber, Nyaka ilo.\r\nTam gombo mar ringruok Kod richo duto.\r\nTeg wang'i kuom Yesu, Nomii loyo.\r\n\r\nKwa Jawar mondo okonyi\r\nKod tekone moriti;\r\nEn to ok oweyi ngang',\r\nNilo kuome pile.\r\n\r\n2.\r\nPogri joketho, Kik iwuo marach.\r\nLuor Nying Nyasaye pile, Kik wachi kayiem.\r\nJiwri kuom tim maber, Hul gi ma adier,\r\nKet chunyi kuom Yesu, Nokonyi chutho.\r\n\r\n3. \r\nJoloyo noyudo osimbo mar duon'g;\r\nKuom yie e minyalo duto kata tek.\r\nEn moseherowa nomiwa teko,\r\nTeg wang'i kuom Yesu nokonyi chutho,.",
+    "number": 50
+  }
+},
+{
+  "model": "hymns.hymn",
+  "pk": 51,
+  "fields": {
+    "title": "Ilong'o gweth maduong",
+    "lyrics": "1.\r\nIlong'o gweth maduong'\r\nMar Ruodhwa Yesu Kristo,\r\nE chunyi gi ngima ni?\r\nYie kuom singruok mar\r\nWuoru, Ka onyisi e wachne;\r\nKaka notimo machon.\r\n\r\nObiro pong'o chunyu gi Roho tinende,\r\nKa Ruoth osechikou, keluru aguluni;\r\nObiro pong'o chunyu gi Roho tinende,\r\nGi Roho Maler gi teko.\r\n\r\n2. \r\nKeluru aguluni ma nono, to ler e rembe,\r\nBiuru un mochando;\r\nKendo walruok mag dhano\r\nKa urito enyim kome,\r\nNyaka Roho Maler oluar.\r\n\r\n3. \r\nKa mo agulu ok norum,\r\nNg'wonone obet kama,\r\nHerane ok lokore;\r\nSingruokne osenyisowa e\r\nRoho gi tekone,\r\nObiro pong'o aguluni.",
+    "number": 51
+  }
+},
+{
+  "model": "hymns.hymn",
+  "pk": 52,
+  "fields": {
+    "title": "Ruoth e ndalo mar Pentekoste",
+    "lyrics": "1.\r\nRuoth e ndalo mar Pentekoste\r\nNinyiso tekoni;\r\nGi mach maler mopuwodho,\r\nLor kuomwa tinende.\r\n\r\nRuoth oro teko machon,\r\nTeko mar Pentekosti;\r\nGweth maduong' imiyowa, Imiyowa\r\nImiyowa te.\r\nRuoth oro teko machon\r\nTeko mar Pentekosti;\r\nMondo joricho gilokore\r\nGi miyo nyingi duong.\r\n\r\n2.\r\nKuom tije madongo watiyoni\r\nMi chunywa teko duto;\r\nBi, ikaw jogi iwuon,\r\nMondo kik giweyi.\r\n\r\n3.\r\nWuo Ruoth wariti e nyim komi\r\nSingruok ni wayie;\r\nOk wabi weyi nyaka\r\nWayudo gweth mari.",
+    "number": 52
+  }
+},
+{
+  "model": "hymns.hymn",
+  "pk": 53,
+  "fields": {
+    "title": "Landuru weche te",
+    "lyrics": "1.\r\nLanduru weche te\r\nKama uyudo ji,\r\nKama chuny mag dhano\r\nGi chand dhano betie;\r\nJokristo duto te\r\nHuluru wach mamor,\r\nJakony osebiro.\r\n\r\nJakony osebiro, Jakony osebiro,\r\nRoho oa polo, kaka osewacho;\r\nLanduru weche te\r\nKama uyudo ji, Jakony osebiro.\r\n\r\n2. \r\nOtieno oserumo\r\nOkinyi yawore,\r\nAhiti bedo kwe\r\nApaka ling' bende;\r\nKa piny oyawore\r\nMudho osekadho\r\nJakony osebiro.\r\n\r\n3.\r\nRuoth mar Ruodhe maduong\r\nObi gi buomb chang\r\nOgonyo jo matweyo\r\nOkelo warruok;\r\nOd twech odong' nono\r\nWinji wende loyo\r\nJakony osebiro\r\n\r\n4.\r\nHera mar Nyasaye\r\nLewa onyalo hulo\r\nNg'wono mar Nyasaye\r\nKuom jo mabeyo;\r\nKa an ng'a moketho\r\nAnyalo lokora,\r\nJakony osebiro.",
+    "number": 53
+  }
+},
+{
+  "model": "hymns.hymn",
+  "pk": 54,
+  "fields": {
+    "title": "Ka nogik chieng' Pentekoste",
+    "lyrics": "1.\r\nKa nogik chieng' Pentekoste,\r\nNe nitie jokristo,\r\nKendo Roho nool kuomgi,\r\nKaka Yesu nosechiko.\r\n\r\nRuodhwa Yesu, iritwa koro,\r\nKaka jogi noriti chon;\r\nKelnwa Roho Maler ahinya,\r\nOpong' chunywa duto.\r\n\r\n2.\r\nKa ne giwinjo duond yamo,\r\nKa yamo maduong' ngang',\r\nNobiro ma nopong\r\nE ot ma ne gibetie.\r\n\r\n3.\r\nKendo lep nofweny kuomgi,\r\nMachalo kod mach,\r\nMa nopong'o ji duto,\r\nKaka Yesu nosechiko.\r\n\r\n4. \r\nKendo Roho Maler ahinya\r\nNopong'o ji duto,\r\nNe giwooyo gi dhok moko\r\nKaka Roho omiyogi wacho.",
+    "number": 54
+  }
+},
+{
+  "model": "hymns.hymn",
+  "pk": 55,
+  "fields": {
+    "title": "Rito kuom Ruoth",
+    "lyrics": "1.\r\nRito kuom Ruoth,\r\nKuom singruok mar Wuoro;\r\nRito kuom Ruoth,\r\nNooro e polo.\r\nRito kuom Ruoth\r\nKuom yie wanwang o,\r\nRito e ot man malo.\r\n\r\nTeko mar Roho,\r\nOloyo richo te,\r\nGi kelo chuny maler;\r\nTeko mar Roho\r\nTeko chieng' Pentekoste\r\n\r\n2.\r\nRito kuom Ruoth\r\nMiyo Yesu duto;\r\nRito kuom Ruoth\r\nNyaka gonya e richo.\r\nRito kuom Ruoth\r\nKuom gweth mar polo,\r\nRito e ot man malo.\r\n\r\n3.\r\nRito kuom Ruoth\r\nLong'o idho malo,\r\nRito kuom Ruoth\r\nGombona kuome;\r\nRito kuom Ruoth\r\nKuom Mach mar polo,\r\nRito e ot man malo.",
+    "number": 55
+  }
+},
+{
+  "model": "hymns.hymn",
+  "pk": 56,
+  "fields": {
+    "title": "Jaduong' moro nobiro",
+    "lyrics": "1.\r\nJaduong' moro nobiro ir Yesu\r\nMondo openje yo mar odonj e polo;\r\nTo Ruoth nodwoke, Adieri onego\r\nOnyuolu nyuol manyien.\r\n\r\nOnego onyuolu\r\nNyuol manyien mar Nyasaye,\r\nAdieri, adieri, onego uyud\r\nNyuol manyien mar Nyasaye.\r\n\r\n2.\r\nJo machwo gi mamon, winjuru weche Ma\r\nYesu nowacho gi adieri chutho;\r\nOwachonu kama bende; Onego\r\nOnyuolu nyuol manyien.\r\n\r\n3.\r\nUn duto madwaro odonj e polo,\r\nE yuweyo gi mor gi wer mar warruok;\r\nNgima ma nyaka chieng' niyudi nimar\r\nNyuol manyien gi Roho.\r\n\r\n4. \r\nIdwaro nenori gosiepe moko\r\nMosekwongoni dhi e polo mariti?\r\nKamano yie kuom Yesu, kendo yud\r\nNyuol manyien gi Roho.",
+    "number": 56
+  }
+},
+{
+  "model": "hymns.hymn",
+  "pk": 57,
+  "fields": {
+    "title": "Yesu nowara koro ka mor",
+    "lyrics": "1.\r\nYesu nowara, koro ka mor,\r\nTo oseodonj, omenyo chunya,\r\nKoro kadwaro wacho ni ji.\r\nOk anamung' ngang', ok analing'.\r\n\r\nMano ni morna, mano wenda.\r\nKapako Nyinge ndalo duto,\r\nMano ni morna, mano wenda,\r\nKapako Nyinge ndalo duto.\r\n\r\n2.\r\nYesu nopuonja hero Nyasaye,\r\nKoro kadwaro puonjo ji duto,\r\nKata gikwero kata giyie,\r\nOk anamung' ngang', ok analing'.\r\n\r\n3. \r\nKoro kageno Jawarwa,\r\nYesu ni berna, bende ni lerna,\r\nKa tichne rumo, ka piny ogik,\r\nEka nobi ni mondo owara.",
+    "number": 57
+  }
+},
+{
+  "model": "hymns.hymn",
+  "pk": 58,
+  "fields": {
+    "title": "Kristo Jawarwa notho e yath",
+    "lyrics": "1.\r\nKristo Jawarwa, notho e yath,\r\nNotho kuom joricho, chulo gowi;\r\nKiro chunyi giremb Nyarombo,\r\nAnakadhi, nakadhi koro.\r\n\r\nKa aneno remo, ka aneno remo,\r\nKa aneno remo, anakadhi\r\nNakadhi koro.\r\n\r\n2.\r\nRicho madongo, Yesu owara,\r\nSingruokne duto, obiro timo;\r\nLuoko e soko moyawo nu,\r\nAnakadhi, nakadhi koro.\r\n\r\n3. \r\nBura obiro kuom ji duto,\r\nNg'ato ka ng'ato ong'ado gi;\r\nKa upondo e soko remba,\r\nAnakadhi, nakadhi koro.\r\n\r\n4. \r\nEn kech maduong', en hera Nyasaye,\r\nHera gi muolo, gi adieri;\r\nYudo kwe gi buok e bwo remo,\r\nAnakadhi, nakadhi koro.",
+    "number": 58
+  }
+},
+{
+  "model": "hymns.hymn",
+  "pk": 59,
+  "fields": {
+    "title": "Isedhi ir Nyarombo Nyasaye",
+    "lyrics": "1.\r\nIsedhi ir Nyarombo Nyasaye,\r\nNoluoki gi rembe mosechwer,\r\nKata kethruok dich e chunyi manade,\r\nNoluoki gi rembe mosechwer.\r\n\r\nNoluoki gi rembe,\r\nNoluoki gi rembe mosechwer,\r\nKata kethruok dich e chunyi manade,\r\nNoluoki gi rembe mosechwer.\r\n\r\n2. \r\nIsedhi ir Yesu Kristo Jakonywa,\r\nNoluoki gi rembe mosechwer;\r\nRembe e moromo mana ji duto,\r\nNoluoki gi rembe mosechwer.\r\n\r\n3.\r\nIsedhi irYesu Kristo Jagwedhwa,\r\nNoluoki gi rembe mosechwer;\r\nEnoyie ni mond' idonji e polo,\r\nNoluoki gi rembe mosechwer.\r\n\r\n4.\r\nKethni duto ni mond ihul ni Nyasaye,\r\nMondo oluoki gi remb Ruoth Yesu;\r\nMondo omiyi ngimane ma nyaka chieng',\r\nNoluoki gi rembe mosechwer.",
+    "number": 59
+  }
+},
+{
+  "model": "hymns.hymn",
+  "pk": 60,
+  "fields": {
+    "title": "Nabiro ir Yesu gi chuny malit",
+    "lyrics": "1.\r\nNabiro ir Yesu gi chuny malit.\r\nNogolo richona, nogolo richona.\r\nHera ni maduong' omiyo amor.\r\nNogolo richona.\r\n\r\nNogolo richona, nogolo richona,\r\nOrita ndalo duto.\r\nAmor ahinya nikech noresa,\r\nNogolo richona.\r\n\r\n2. \r\nRicho mapek ok nanyalo ting'o,\r\nNogole kuoma, nogole kuoma.\r\nKoro akelo parona kuome,\r\nNogolo richona.\r\n\r\n3. \r\nKoro bura oonge e chunya,\r\nNogolo richona, orita pile.\r\nKwe mare nomiya e chunya,\r\nNogolo richona.\r\n\r\n4. \r\nKiyie biro ir Yesu tinende,\r\nNogolo richoni, nogolo richoni.\r\nNomiyi mor e yo miwuotho go,\r\nNogolo richoni.",
+    "number": 60
+  }
+},
+{
+  "model": "hymns.hymn",
+  "pk": 61,
+  "fields": {
+    "title": "Bi Roho mar Nyasaye",
+    "lyrics": "1.\r\nBi Roho mar Nyasaye,\r\nBi konyowa duto,\r\nWalami kawuono,\r\nKonywa gi tekoni.\r\n\r\nRoho mar Nyasaye,\r\nBi, changwa duto,\r\nWalami kawuono.\r\nGedie chunywa ndalo duto.\r\n\r\n2. \r\nIne Roho mang'won,\r\nChunywa bende yuakni,\r\nWadwaro ni mondo ilose,\r\nEk' wadoko jo Nyasaye.\r\n\r\n3. \r\nInie Roho mohero,\r\nChunywa bende Ikony.\r\nIn mikelonwa ngima,\r\nBer wan duto waheri.\r\n\r\n4. \r\nRoho mar Nyasaye bi\r\nGedie chunywa duto,\r\nWanabedi kodi e polo\r\nHigini gi higini.",
+    "number": 61
+  }
+},
+{
+  "model": "hymns.hymn",
+  "pk": 62,
+  "fields": {
+    "title": "Ngwono maduon'g mar Ruoth",
+    "lyrics": "1.\r\nNgwono maduon'g mar Ruoth Yesu,\r\nOloyo richo gi kethowa,\r\nNochwero rembe e Kalvari.\r\nNyarombo Nyasaye e misango.\r\n\r\nNg'wono mar Ruoth,\r\nMoweyo, moluoko richowa\r\nNg'wono mar Ruoth,\r\nNg'wono mogolo richo duto.\r\n\r\n2.\r\nRicho ochalo ka apaka\r\nMakuyo chuny gi rem maduong'\r\nNg'wono mar Nyasaye omiyowa\r\nKwe kuom Yesu mothonwa e yath.\r\n\r\n3. \r\nRicho ok opondo ni Nyasaye,\r\nEre gi ma nopwodhe chutho?\r\nNe! Soko mar remb Yesu ochwer.\r\nOnyalo luoki maler koro.\r\n\r\n4. \r\nOnge ng'wono maromo gi ma,\r\nMochiwoni kuom yie Yesu;\r\nIn kidwaro nenori kode\r\nDak iyie ng'wonone koro?",
+    "number": 62
+  }
+},
+{
+  "model": "hymns.hymn",
+  "pk": 63,
+  "fields": {
+    "title": "Ndalo mamor ka ayieri",
+    "lyrics": "1.\r\nNdalo mamor, ka ayieri,\r\nJa war mara gi Nyasacha;\r\nChunya obedo, chuny mamor\r\nLando wecheni kuonde te.\r\n\r\nChieng' mamor, chieng' mamor,\r\nYesu noluoko richona.\r\nNopuonja rito, gi lamo;\r\nBedo mamor, ndalo duto.\r\nChieng' mamor, chieng' mamor,\r\nYesu noluoko richona.\r\n\r\n2.\r\nOserumo, wach orumo,\r\nRuoth en mara, to an mare:\r\nNoyuwaya bi aluwe\r\nGi mor ahulo wechene.\r\n\r\n3. \r\nKoro chunya yweyo kuome,\r\nChunya noyudo kwe adier.\r\nKoro ok aweyo Ruodha,\r\nAbet kode, gi en koda.\r\n\r\n4. \r\nAsekwong'ora enyim polo,\r\nAkwong'ora ndalo duto.\r\nNyaka ngima na rum e piny,\r\nNyaka ochopo saa mar tho.",
+    "number": 63
+  }
+},
+{
+  "model": "hymns.hymn",
+  "pk": 64,
+  "fields": {
+    "title": "Nowara mi amor kahulo",
+    "lyrics": "1.\r\nNowara mi amor kahulo\r\nNowara gi remb Nyarombo,\r\nNowara gingwonone maduong'\r\nKoro abed nyathi Nyasaye.\r\n\r\nWarruok, warruok!\r\nNowara giremb Nyarombo;\r\nNowara, nowara,\r\nKoro abed nyathi Nyasaye.\r\n\r\n2. \r\nAmor nikech Yesu nowara,\r\nOnego apake pile;\r\nLerne orienyna ndalo duto,\r\nEn koda ma ok noweya.\r\n\r\n3. \r\nAparo kuom Jawarna pile:\r\nNoyie thona mondo owara;\r\nChunya opong' gi mor ka,\r\nWach herane e mawero.\r\n\r\n4. \r\nAng'eyo nanene giduong, ne,\r\nChieng' ma nobi omo joge;\r\nOtelona kendo orita.\r\nWachne omiya' mor pile.",
+    "number": 64
+  }
+},
+{
+  "model": "hymns.hymn",
+  "pk": 65,
+  "fields": {
+    "title": "Weruru weche Nyasaye",
+    "lyrics": "1.\r\nWeruru weche Nyasaye,\r\nWeche mamit mar ngima,\r\nSom gi uru pile pile, weche mamit maber,.\r\nTo gi puonjowa niya, ni mondo wagen Yesu,\r\n\r\nWeche mamit miwinjo ni,\r\nWeche mamit mar ngima,\r\nWeche mamit miwinjo ni,\r\nWeche mamit maber.\r\n\r\n2.\r\nYesu miyo ji duto te,\r\nWeche mamit mar ngima,\r\nJi moketho winjuru, weche mamit maber,\r\nYesu omiyo gi nono, gin gi yie kende,\r\n\r\n3.\r\nOk wamung' ni jo piny,\r\nWeche mamit mar ngima,\r\nTo gin weche makonyo gi,\r\nWeche mamit maber,\r\nYesu en Jawargi chieng' nobi noyier gi.\r\n\r\n4.\r\nMoseyie weche mamit,\r\nWeche mamit mar ngima,\r\nMoseyie weche mamit,\r\nWeche mamit maber",
+    "number": 65
+  }
+},
+{
+  "model": "hymns.hymn",
+  "pk": 66,
+  "fields": {
+    "title": "Weruru wach Ruoth Yesu",
+    "lyrics": "1.\r\nWeruru wach Ruoth Yesu,\r\nOdwaro jo maricho\r\nMobayo e yoregi\r\nMondo ores jo ma nolal\r\n\r\nWeruru pile pile\r\nKristo dwaro jo molal,\r\nHuluru wach malong'o\r\nKristo ruako jo molal.\r\n\r\n2.\r\nNwang'uru yuweyo kuome,\r\nGene chuth, wachne adier,\r\nOyie ruako ji duto\r\nModwaro warruok kuome.\r\n\r\n3.\r\nBura ok nolo chunya,\r\nOketa kare kuom yie,\r\nRembe noluoka maler,\r\nNoweyona richona.\r\n\r\n4.\r\nKristo oyie ruako ji,\r\nBi ire gi richoni,\r\nNowari mi nidonji\r\nE ngima gi mor chutho.",
+    "number": 66
+  }
+},
+{
+  "model": "hymns.hymn",
+  "pk": 67,
+  "fields": {
+    "title": "Kaw nying Yesu kodi pile",
+    "lyrics": "1. \r\nKaw nying Yesu kodi pile,\r\nIn miwuotho e piny ka;\r\nNomiyi mor kod teko,\r\nPar Nyinge ka midhiye.\r\n\r\nNyinge ber, Nyinge mit!\r\nNyingeno e genowa;\r\nNyinge ber, Nyinge mit!\r\nEn Yesu mowarowa.\r\n\r\n2.\r\nKaw nying Yesu kodi pile,\r\nEn nobed kuot mariti;\r\nKa tem kod richo obiro,\r\nLam e nyingeno maler.\r\n\r\n3. \r\nEe, nyingno maber mar Yesu\r\nOkelo mor e chunywa;\r\nKa En oruakwa e polo,\r\nWanawer kuom nying Yesu.\r\n\r\n4.\r\nKoro wadendo nying Yesu,\r\nKwa lame, owinjowa.\r\nRuoth moloyo ruodhi duto,\r\nEn Yesu, jawarwa.",
+    "number": 67
+  }
+},
+{
+  "model": "hymns.hymn",
+  "pk": 68,
+  "fields": {
+    "title": "Ja thieth maduong' osudo ka,",
+    "lyrics": "1.\r\nJa thieth maduong' osudo ka,\r\nEn Yesu ma Jakonywa;\r\nWachne omiyo chunywa mor,\r\nYaye, winjuru dwonde.\r\n\r\nWer mamit mar jopolo,\r\nKa gipako Ruoth Yesu,\r\nNying' moloyo nying' duto,\r\nYesu kende, Yesu.\r\n\r\n2.\r\nOseweyoni richoni,\r\nWinji Yesu kowacho;\r\nChunyi koro obed gi kwe.\r\nKichiko wang'yor polo.\r\n\r\n3. \r\nWadend Nyarombono motho;\r\nKoro ayie kuom Yesu.\r\nAhero nying' mar Jawarna,\r\nAhero nying'no, Yesu.\r\n\r\n4.\r\nNying'no ogolo richona,\r\nOnge moromo kode;\r\nChunya mor nade kawinjo\r\nNying'no maber mar Yesu.\r\n\r\n5. \r\nKoduogo chiwo osimbo\r\nOsimb ngima mar locho -\r\nEka wanabedi bute,\r\nWanadend Jawar Yesu.",
+    "number": 68
+  }
+},
+{
+  "model": "hymns.hymn",
+  "pk": 69,
+  "fields": {
+    "title": "Nitie remo ma nosechwer",
+    "lyrics": "1.\r\nNitie remo ma nosechwer, Ne en remb Immanuel:\r\nJo maricho koluokree, Gipwodhore maler.\r\nGipwodhore maler, Gipwodhore maler;\r\nJo maricho koluokree, Gipwodhore maler.\r\n\r\n2.\r\nJamecho cha e kar thone, Noyudo mor kuome.\r\nTo an bende ma ok aler, Noluokna kethna te.\r\nNoluokna kethna te, Noluokna kethna te;\r\nTo an bende ma ok aler, Noluokna kethna te.\r\n\r\n3.\r\nRemb Nyarombo ma nonegi, Obedo gi teko,\r\nMar pwodho jogo mogene, Ni kik giketh kendo,\r\nNi kik giketh kendo, Ni kik giketh kendo;\r\nMar pwodho jogo mogene, Ni kik giketh kendo.\r\n\r\n4.\r\nNyaka nageno remono Mochwer e Kalvari.\r\nApako hera mar Jawar, Moherowa kama.\r\nMoherowa kama, Moherowa kama;\r\nApako hera mar Jawar, Moherowa kama.\r\n\r\n5.\r\nRuoth, kata ng'a marach kama, Kuom ng'wononi\r\nmaduong'\r\nIsewara, ilosona Kar bet ma nyaka chieng'.\r\nKar bet manyaka chieng', Kar bet ma nyaka\r\nchieng'.\r\nIsewara ilosona Kar bet ma nyaka chieng'",
+    "number": 69
+  }
+},
+{
+  "model": "hymns.hymn",
+  "pk": 70,
+  "fields": {
+    "title": "Ahero winjo Nying Yesu",
+    "lyrics": "1.\r\nAhero winjo Nying Yesu,\r\nAhero miye duong';\r\nEn wenda kod morna pile,\r\nOmitna moloyo.\r\n\r\nAn ahero Yesu,\r\nAn ahero Yesu,\r\nAn ahero Yesu,\r\nNohera mokwongo.\r\n\r\n2. \r\nNyingno onyisa kuom hera\r\nJawar ma nothona,\r\nldo, Rembe e ma nochwerona,\r\nMagolo richona.\r\n\r\n3. \r\nOnyisa kuom gweth mag Wuora\r\nMomiyowa pile,\r\nKata awuotho e chandruok,\r\nLerne orienyna.\r\n\r\n4. \r\nNyingno onyisa kuom Jakony\r\nMan koda ndalo duto,\r\nKachunya lit ihoya,\r\nOmiya mor pile",
+    "number": 70
+  }
+},
+{
+  "model": "hymns.hymn",
+  "pk": 71,
+  "fields": {
+    "title": "Onge moro maduong' ka Yesu",
+    "lyrics": "1.\r\nOnge moro maduong' ka Yesu,\r\nEn olo, En olo\r\nOnge maromo gi Ruodhwa Yesu,\r\nKata achiel, kata achiel;\r\nYesu kende noa e polo,\r\nYesu kende e Wuod Nyasaye;\r\nOnge moro maduong' ka Yesu,\r\nKata achiel, kata achiel.\r\n\r\n2.\r\nOnge moro maber ka Yesu.\r\nEn olo, En olo;\r\nOnge ma ti ka Nyasaye odwaro,\r\nKata achiel, kata achiel;\r\nDhano duto gibara bara;\r\nDhano duto giti marach,\r\nOnge moro maber ka Yesu,\r\nKata achiel, kata achiel.\r\n\r\n3.\r\nOnge moro mang'won ka Yesu.\r\nEn olo, En olo;\r\nOnge mahero ngang' ka Yesu,\r\nKata achiel, kata achiel;\r\nChon nobiro nokonyo dhano;\r\nKoro Ongima, Oritogi;\r\nOnge moro mang'won ka Yesu,\r\nKata achiel, kata achiel.",
+    "number": 71
+  }
+},
+{
+  "model": "hymns.hymn",
+  "pk": 72,
+  "fields": {
+    "title": "Maricho maga di luok gang'o?",
+    "lyrics": "1.\r\nMaricho maga di luok gang'o?\r\nGi remb Yesu kende.\r\nChunya di luok mapoth gang'o?\r\nGi remb Yesu kende.\r\n\r\nRemo mar Yesu ratego,\r\nRembe e ma luoka mapoth,\r\nOnge ng'ato machielo,\r\nRemo mar Yesu kende.\r\n\r\n2. \r\nOnge moro ma di luoka mapoth,\r\nRemo mar Yesu kende.\r\nOnge tim ma di konya,\r\nRemo mar Yesu kende.\r\n\r\n3. \r\nMirima mar Nyasaye orumo gang'o?\r\nGi remb Yesu kende.\r\nNanyalo donj i polo gang'o?\r\nGi Yesu kende",
+    "number": 72
+  }
+},
+{
+  "model": "hymns.hymn",
+  "pk": 73,
+  "fields": {
+    "title": "Di her yudo gonyruok",
+    "lyrics": "1.\r\nDi her yudo gonyruok kuom richoni?\r\nNitie teko e remb Ruodhwa.\r\nDi her loyo temruok duto pile\r\nNitie teko e remb Ruoth.\r\n\r\nTeko nitie, teko e remo,\r\nE remo mar Ruodhwa,\r\nTeko nitie ma diwar ji,\r\nMageno remb Yesu Kristo.\r\n\r\n2. \r\nDi her gonyruok kuom sunga gi mbaka\r\nNitie teko kuom remb Ruodhwa.\r\nBi mondo oluok e Kalvari,\r\nNitie teko e remb Ruoth.\r\n\r\n3.\r\nDi her bet mapoth pile ka pile?\r\nNitie teko e remb Ruodhwa.\r\nRicho duto nodunyo e remo,\r\nNitie teko e remb Ruoth.\r\n\r\n4. \r\nDi her tiyoni Ruoth Yesu Kristo?\r\nNitie teko gene chutho,\r\nDi her pakoYesu ndalo duto?\r\nNitie teko e remb Ruoth",
+    "number": 73
+  }
+},
+{
+  "model": "hymns.hymn",
+  "pk": 74,
+  "fields": {
+    "title": "Di dag kuom Yesu",
+    "lyrics": "1.\r\nDi dag kuom Yesu, bende bedo ber gi ler?\r\nDiwuoth kode, e yo moseyiero?\r\nDiyie mondo iting'i, ting' mapek kuome\r\nYie kuom dwarone kuomi.\r\n\r\nTekone losi kaka odwaro,\r\nRembe noluoko chunyi gi gonyi;\r\nHerane opong' chunyi, mond ine,\r\nBer ne nolos dwarone kuomi.\r\n\r\n2.\r\nDiyie mondo nogonyi, gi luwo ka luongi?\r\nDing'eyo kwe chunyi, nikech imiye chuth?\r\nDiyie mondo oresi, mondo kik iduog chien?\r\nYie kuom dwarone kuomi.\r\n\r\n3. \r\nDiyudo e piny Ruoth polo ka kobet mar kwe,\r\nDiteme kaka okonyi chieng' sandruok?\r\nDiyie tiyo tich maber kaka inyalo?\r\nYie kuom dwarone kuomi.",
+    "number": 74
+  }
+},
+{
+  "model": "hymns.hymn",
+  "pk": 75,
+  "fields": {
+    "title": "Nabayo e richo gi sunga",
+    "lyrics": "1.\r\nNabayo e richo gi sunga,\r\nKa ok nadewo wach Ruoth Yesu;\r\nOk nang'eyo kaka nothona\r\nE Kalvari.\r\n\r\nHerane gi ng'wonone to duong',\r\nMoweyona richona mathoth;\r\nAsenwang'o thuolo e chunya,\r\nE Kalvari.\r\n\r\n2. \r\nWach Nyasaye nopuonja kuom richo,\r\nNaneno kaka naketho chik;\r\nBura noloya nyaka nayie\r\nWach Kalvari.\r\n\r\n3. \r\nKoro asechiwoni Yesu\r\nGiga duto nikech en Ruodha.\r\nChunya opong' gi mor mawero\r\nKuom Kalvari.\r\n\r\n4.\r\nHera Nyasaye noloso warruok,\r\nNg'wonone nokelo kony kuomwa.\r\nNotimonwa winjruok gi remo\r\nE Kalvari.",
+    "number": 75
+  }
+},
+{
+  "model": "hymns.hymn",
+  "pk": 76,
+  "fields": {
+    "title": "Un mujony mogangore mapek",
+    "lyrics": "1.\r\nUn mujony, mogangore mapek,\r\nTwak kode Yesu, twak kode Yesu;\r\nChuny kuyo, nikech mor oweu,\r\nTwak kode Yesu kende.\r\n\r\nTwak kode Yesu, twak kode Yesu,\r\nEn e osiep mwang'eyo.\r\nOsiep moro un uonge go\r\nTwak kode Yesu kende.\r\n\r\n2.\r\nPi wenge ochwer mol ahinya,\r\nTwak kode Yesu, twak kode Yesu;\r\nUngi richo upando ni dhano,\r\nTwak kode Yesu kende.\r\n\r\n3. \r\nUluor nikech chandruok obiro.\r\nTwak kode Yesu, twak kode Yesu;\r\nKik uparru kuom kiny mabiro,\r\nTwak kode Yesu kende.\r\n\r\n4. \r\nChunyu chandore uparo thou,\r\nTwak kode Yesu, twak kode Yesu;\r\nPiny Ruoth polo mabiro ulong'o,\r\nTwak kode Yesu kende.",
+    "number": 76
+  }
+},
+{
+  "model": "hymns.hymn",
+  "pk": 77,
+  "fields": {
+    "title": "Biuru duto mowinjo",
+    "lyrics": "1. \r\nBiuru duto mowinjo.\r\nNitie Ruoth mang'won,\r\nKendo nomiyi yuweyo\r\nKiyie Wach Mare.\r\nYie kende, yie kende,\r\nYie kuom Yesu,\r\nEn owari, En owari,\r\nNowari koro.\r\n\r\n2. \r\nNikech Yesu nochuwero rembe,\r\nOgwedhowa koro.\r\nBi ire mondo oluoki\r\nEka nidoki mapoth;\r\nBi ir Yesu, bi ir Yesu,\r\nKoro bi ire,\r\nEn owari, En owari,\r\nNowari koro.\r\n\r\n3.\r\nYesu en e yo gi adier\r\nMoterowae polo,\r\nYie kuome, kik ideki.\r\nTo bed gi hap Nyasaye.\r\nKik idagi, kik idagi,\r\nKik idag Yesu,\r\nEn owari, En owari,\r\nNowari koro.\r\n\r\n4.\r\nRiwuru kawuono kodwa,\r\nWadhi e kar duong,\r\nWadag e piny maber ngang',\r\nKar mor ma nyaka chieng'.\r\nAn agene, an agene,\r\nAgeno Yesu,\r\nEn owara, En owara,\r\nYesu owara.",
+    "number": 77
+  }
+},
+{
+  "model": "hymns.hymn",
+  "pk": 78,
+  "fields": {
+    "title": "Bi ir Yesu",
+    "lyrics": "1.\r\nBi ir Yesu,\r\nBi ir Yesu,\r\nBi ir Yesu koro;\r\nKoro bi ir Yesu,\r\nBi ir Yesu koro.\r\n\r\n2. \r\nEn Jakonyi, etc.\r\n\r\n3. \r\nEn giteko, etc.\r\n\r\n4. \r\nKa idwaro, etc.",
+    "number": 78
+  }
+},
+{
+  "model": "hymns.hymn",
+  "pk": 79,
+  "fields": {
+    "title": "Biuru ire Yesu Jakony",
+    "lyrics": "1.\r\nBiuru ire, Yesu Jakony,\r\nWechene e monyisowa yo.\r\nYesu ochungo koro gi ka,\r\nKowacho, Biuru.\r\n\r\nWanamor to wanamor ngang',\r\nEka wanasiki gi Yesu:\r\nYesu Jakonywa oherowa,\r\nKendo nowarowa.\r\n\r\n2. \r\nYesu nowacho, Biuru ka,\r\nUn jo majony muting'o mapek,\r\nTo kik udeki, winjuru wach;\r\nJi duto to gibi.\r\n\r\n3. \r\nParuru kendo, En koro ka;\r\nWinjuru duond mar Ruodhwa maber:\r\nOchiko duto mondo gibi,\r\nNyithindo be gibi.",
+    "number": 79
+  }
+},
+{
+  "model": "hymns.hymn",
+  "pk": 80,
+  "fields": {
+    "title": "Winjuru duond Yesu Kristo",
+    "lyrics": "1.\r\nWinjuru duond Yesu Kristo,\r\nRuodha maber ni en Yesu,\r\nWinjuru Jakonywa Yesu.\r\nEn oluongwa, luongwa, waluwe.\r\n\r\nAnaluwo bang'i, Yesu,\r\nAnaluwo bang'i,\r\nYesu, Analuwo bang'i, Yesu,\r\nEn noriti, riti chunya.\r\n\r\n2.\r\nBiuru unune yora,\r\nYoranogo e malong'o,\r\nLuweuru yoranogo,\r\nMa utundi ira un duto.\r\n\r\n3.\r\nYoranogo eyo madiny,\r\nMochiko tir chutho pile,\r\nYoranogo dhi malo,\r\nNdalo duto nyaka e pinyni.\r\n\r\n4.\r\nYora en e yo mar ngima,\r\nYora en yo mar mor chutho,\r\nMor ne ok anorum.\r\nTo nosiki kodwa e polo.",
+    "number": 80
+  }
+},
+{
+  "model": "hymns.hymn",
+  "pk": 81,
+  "fields": {
+    "title": "Paroni guro e musalaba",
+    "lyrics": "1.\r\nParoni guro e musalaba?\r\nChunyi kare kuom Nyasaye?\r\nIkwano gik moko gilal kuom Yesu?\r\nChunyi kare kuom Nyasaye?\r\n\r\nChunyi kare kuom Nyasaye?\r\nLuoki e remo mochwer?\r\nBedo maler gi mamuol te?\r\nOwinjore enyim Nyasaye?\r\n\r\n2. \r\nInyalo loyo ringri gi richo?\r\nChunyi kare kuom Nyasaye?\r\nLoyo kethruok te oko gi iye?\r\nChunyi kare kuom Nyasaye?\r\n\r\n3. \r\nBura onge koro kuom richo?\r\nChunyi kare kuom Nyasaye?\r\nYesu en Ruoth mar chunyi koro?\r\nChunyi kare kuom Nyasaye?o\r\n\r\n4.\r\nTekoni duto Yesu ochiki,\r\nChunyi kare kuom Nyasaye?\r\nPile ka pile obet e chunyi,\r\nChunyi kare kuom Nyasaye?\r\n\r\n5.\r\nKoro iwuotho e yo mar polo.\r\nChunyi kare kuom Nyasaye?\r\nChunyi orwako lau makare.\r\nChunyi kare kuom Nyasaye.",
+    "number": 81
+  }
+},
+{
+  "model": "hymns.hymn",
+  "pk": 82,
+  "fields": {
+    "title": "Awinjo kiluonga",
+    "lyrics": "1.\r\nAwinjo kiluonga,\r\nNi mondo abi iri,\r\nIluoka gi rembi maler.,\r\nMochuwer e Kalvari.\r\n\r\nAbiro ni Ruoth,\r\nAbiro iri;\r\nKageno rembi kende,\r\nMochuwer e Kalvari.\r\n\r\n2.\r\nKata richona thoth,\r\nAgeno ng'wononi;\r\nKiluoko chunya dok maler,\r\nNamor kuom tekoni.\r\n\r\n3. \r\nApako warruokni!\r\nMobedo kuom ng'wono!\r\nKuom chiwonwa Yesu Kristo,\r\nJawar ma nothonwa.",
+    "number": 82
+  }
+},
+{
+  "model": "hymns.hymn",
+  "pk": 83,
+  "fields": {
+    "title": "Kiol ting'o ting' mar richo",
+    "lyrics": "1.\r\nKiol ting'o ting' mar richo duto,\r\nYie Yesu odonj e chunyi;\r\nKidwaro wuotho e ngima manyien,\r\nYie Yesu odonj e chunyi.\r\n\r\nRiwo gi kiawa we,\r\nKoro kik ikwere,\r\nKoro iyaw dhoot,\r\nYie Yesu odonj e chunyi.\r\n\r\n2.\r\nKidwaro yudo chunyi maler koro,\r\nYie Yesu odonj e chunyi;\r\nSoko mar luoko en machiegini,\r\nYie Yesu odonj e chunyi.\r\n\r\n3.\r\nKa ingi temruok, ka kwe oonge,\r\nYie Yesu odonj e chunyi;\r\nGimoro ma chuny nitie midwaro,\r\nYie Yesu odonj e chunyi.\r\n\r\n4.\r\nKidwaro riwo gi wer mag johawi,\r\nYie Yesu odonj e chunyi;\r\nKidwaro odonj e dala polo, \r\nYie Yesu odonj e chunyi.\r\n\r\n5.\r\nRiwo gi kiawa onge,\r\nKoro ok akwere.\r\nKoro ayawo dhoot.\r\nYesu oodonj e chunya.",
+    "number": 83
+  }
+},
+{
+  "model": "hymns.hymn",
+  "pk": 84,
+  "fields": {
+    "title": "Kudwaro yudo gonyruok e richo",
+    "lyrics": "1.\r\nKudwaro yudo gonyruok e richo.\r\nNg'iuru Nyarombo;\r\nNothonu e Yath mondo owaru;\r\nNotho e Kalvari.\r\n\r\nNg'iuru Nyarombo,\r\nNg'iuru Nyarombo,\r\nEn kende e monyalo warou;\r\nNg'iuru Nyarombo.\r\n\r\n2. \r\nJachien kotemu mochando Chuny\r\nNg'iuru Nyarombo,\r\nGi tekone nulo ndalo duto,\r\nNotho e Kalvari\r\n\r\n3. \r\nChunyu kojok muneno yorni tek.\r\nNg'iuru Nyarombo,\r\nChunyu nomor kuparo\r\nMotho e Kalvari.\r\n\r\n4.\r\nE chand manadi kik uluor ngang',\r\nNg'iuru Nyarombo,\r\nYesu noritu ma ok noweu,\r\nNotho e Kalvari.",
+    "number": 84
+  }
+},
+{
+  "model": "hymns.hymn",
+  "pk": 85,
+  "fields": {
+    "title": "Asebayo e yo mabor",
+    "lyrics": "1.\r\nAsebayo e yo mabor\r\nKuom Ruodhwa Nyasaye.\r\nChunya nopong' gi tim richo,\r\nWeya koro, Ruoth.\r\n\r\nAbiro koro, Ruoth,\r\nKik aba kendo,\r\nKuom ng'wononi abiro ni,\r\nYesu, Jawarna.\r\n\r\n2.\r\nNaketho e nyimi mathoth,\r\nLuoka koro, Ruoth,\r\nKalokora gi chuny malit;\r\nLuoka koro, Ruoth.\r\n\r\n3.\r\nKoro aol gi richona.\r\nLuoka gi rembi,\r\nKa geno herani kuoma,\r\nAbiro iri.\r\n\r\n4.\r\nChunya lit nikech kethona.\r\nAbiro iri.\r\nMedna teko kod geno,\r\nPuodha koro, Ruoth.",
+    "number": 85
+  }
+},
+{
+  "model": "hymns.hymn",
+  "pk": 86,
+  "fields": {
+    "title": "Yesu oluongou ng'wonone",
+    "lyrics": "1.\r\nYesu oluongou ng'wonone,\r\nLuongou kawuono, luongou kawuono,\r\nAng'o mosindo uwinjo wechene?\r\nAng'o momiyo udeko?\r\n\r\nLuongou kawuono, luongou kawuono.\r\nYesu oluongou, oluongo ji duto kawuono.\r\n\r\n2.\r\nYesu oluongo jo mool, noyuwe,\r\nLuongou kawuono, luongou kawuono;\r\nBiuru ji duto, ubi uyuwe,\r\nOk oriembou.\r\n\r\n3. \r\nYesu oritou, biuru kawuono,\r\nOritou, oritou,\r\nBiuru gi maricho mau kawuono;\r\nKik udeki.\r\n\r\n4.\r\nYesu osayou, winjuru wechene,\r\nWinjuru kawuono, winjuru kawuono;\r\nYesu ohero jo moyie,\r\nOhero ji ngang' ngang'.",
+    "number": 86
+  }
+},
+{
+  "model": "hymns.hymn",
+  "pk": 87,
+  "fields": {
+    "title": "Chunya ma onge winjruok",
+    "lyrics": "1.\r\nChunya ma onge winjruok,\r\nTo mana rembi mosechwer,\r\nMi koro iluonga abi,\r\nEe, koro Yesu, abiro.\r\n\r\n2.\r\nChunya ochando ng'wononi,\r\nKuom golo richona duto,\r\nRembi kende e moluoka,\r\nAbiro ni, Yesu, koro.\r\n\r\n3.\r\nGi chuny mayom ma ok ikwer,\r\nRuaki kendo los maler,\r\nNikech singruok mari ayie,\r\nTo koro, Yesu, abiro.\r\n\r\n4.\r\nGi chuny ma herani oyawo,\r\nMogolo tamruok duto,\r\nMondo abedi ng'ati kende\r\nAbiro ni, Yesu, koro.",
+    "number": 87
+  }
+},
+{
+  "model": "hymns.hymn",
+  "pk": 88,
+  "fields": {
+    "title": "Kik iweya mak igwedha",
+    "lyrics": "1.\r\nKik iweya mak igwedha,\r\nWinj yuakna;\r\nKa pod ilimo ji moko,\r\nKik ikadha, Ruoth.\r\n\r\nJawar, Jawar,\r\nWinj kwayona,\r\nKa pod igwedho ji moko,\r\nKik ikadha, Ruoth.\r\n\r\n2.\r\nMi ayudi ng'wono kuomi,\r\nKod kwe e chunya;\r\nKahuloni richo maga,\r\nLuoka gi rembi.\r\n\r\n3. \r\nAgeno tekoni kende\r\nGi hera mari;\r\nChang chunya mosekethoni,\r\nWara gi ng'wono.\r\n\r\n4.\r\nIn e soko mar pi maber\r\nMakelo ngima;\r\nOnge ng'a maromo kodi,\r\nManyalo konya.",
+    "number": 88
+  }
+},
+{
+  "model": "hymns.hymn",
+  "pk": 89,
+  "fields": {
+    "title": "Dhako nomulo riak nangane",
+    "lyrics": "1.\r\nDhako nomulo riak nangane,\r\nKa nodhine ling'ling',\r\nE kind jo ma nodhiyo ni Ruodhwa,\r\nTo nochange ling'ling'.\r\n\r\nKa'mulo riak nangane,\r\nEk'abiro chango,\r\nTo ma e saa mowinjore\r\nNimondo achangi.\r\n\r\n2. \r\nNodhine kokirini ahinya,\r\nChunye noparore,\r\nYesu nowinjo ni tekone\r\nNoseowuok kuome.\r\n\r\n3. \r\nYesu nolokore mowachone,\r\n\"Nyarwa, dhiyo gi kuwe\r\nTo mondo ing'e gi ma nochangi\r\nEn mana yieni.\"",
+    "number": 89
+  }
+},
+{
+  "model": "hymns.hymn",
+  "pk": 90,
+  "fields": {
+    "title": "Magi gin ndalo mogik",
+    "lyrics": "1.\r\nMagi gin ndalo mogik mag piny,\r\nGeno mogwedh nomiwa mor;\r\nEn adier biro ne chiegni,\r\nNotiwa, Ruoth mar ruodhe nyaka chieng'\r\n\r\n2.\r\nBirone chiegni, birone chiegni,\r\nGi mor warito duogone,\r\nDa gokinyi, da godhiambo,\r\nWang'e birone chiegni.\r\n\r\n3.\r\nRanyis ni e polo gi piny,\r\nGifwenyo birone machiegni;\r\nJoneno mag Nyasaye hulo,\r\nBiro mar Jawarwa ochiegni.\r\n\r\n4. \r\nJomotho kuom Kristo,\r\nJogi duto gi biro chier;\r\nKa okadho e ranga polo,\r\nNobiro, olosonwa ot e polo.\r\n\r\n5.\r\nTo wan mangima modong\"\r\nWanarom ni Ruoth e polo;\r\nGenruok ni ok en manono,\r\nKa wahoyore wawegi gi wach ni.",
+    "number": 90
+  }
+},
+{
+  "model": "hymns.hymn",
+  "pk": 91,
+  "fields": {
+    "title": "Anamor gi lala ka Yesu nowir",
+    "lyrics": "1.\r\nAnamor gi lala ka Yesu nowir,\r\nAnamor gi lala ka Yesu nowir,\r\nAnamor gi lala ka Yesu nowir,\r\nKoterowa e polo.\r\n\r\nKoterowa e polo, Koterowa e polo,\r\nAnamor gi lala ka Yesu nowir,\r\nKoterowa e polo.\r\n\r\n2.\r\nWanawer gi ilo ka Yesu nowir,\r\n\r\n3.\r\nWanarom gosiepwa ka Yesu nowir,\r\n\r\n4.\r\nWanayud gir mwandu kaYesu nowir.",
+    "number": 91
+  }
+},
+{
+  "model": "hymns.hymn",
+  "pk": 92,
+  "fields": {
+    "title": "Amor nikech Wuonwa ni e polo",
+    "lyrics": "1.\r\nAmor nikech Wuonwa ni e polo\r\nOnyiswa herane e kitape,\r\nWeche madongo apuonjorago\r\nTo maloyo ni Yesu ohera.\r\n\r\nAmor nikech Yesu ohera,\r\nEn ohera, En ohera.\r\nAmor nikech Yesu ohera\r\nOhera an bende.\r\n\r\n2.\r\nYesu ohera koro ahere,\r\nNobiro e piny mondo owara.\r\nNikech ng'wonone nothona e yath,\r\nAng'eyo Yesu ohera adier.\r\n\r\n3. \r\nAgeno kuom Yesu pilepile.\r\nNomiya hawi mare kuom yie.\r\nJachien ok nyal loya gi tem,\r\nRemo mar Yesu owara chutho.\r\n\r\n4. \r\nNdalo moro anawer e polo,\r\nKaromo kod Jawarwa kuno.\r\nTo anawer wer mamit nyaka chieng'.\r\nNikech hera maduong'mar Yesu.",
+    "number": 92
+  }
+},
+{
+  "model": "hymns.hymn",
+  "pk": 93,
+  "fields": {
+    "title": "Yesu chikowa mondo wanyis ji",
+    "lyrics": "1.\r\nYesu chikowa mondo wanyis ji,\r\nKaka mach liel ka polo imore,\r\nEnde wadhiuru tero wach maber,\r\nPuonjo pilepile gi Wach Nyasaye.\r\n\r\n2. \r\nYesu chikowa chako nyiso ji,\r\nHera mare e momiyo wadhi,\r\nEnde wadhiuru tero wach maber,\r\nPuonjo pilepile gi Wach Nyasaye.\r\n\r\n3.\r\nYesu chikowa eka wati maber,\r\nNyiso jo ma kia kaka En notho,\r\nEnde wadhiuru tero wach maber,\r\nPuonjo pilepile gi Wach Nyasaye.\r\n\r\n4. \r\nYesu chikowa mondo wanyis ji,\r\nEn to bedo kodwa eka wanyalo dhi,\r\nEnde wadhiuru tero wach maber.\r\nPuonjo pilepile gi Wach Nyasaye.",
+    "number": 93
+  }
+},
+{
+  "model": "hymns.hymn",
+  "pk": 94,
+  "fields": {
+    "title": "Yesu hera an ma ng'e",
+    "lyrics": "1.\r\nYesu hera, an ma ng'e;\r\nEn nowachonwa ka ma,\r\nWan nyithindo en odwaro,\r\nMondo en okonywa.\r\n\r\nYesu ohera, Yesu ohera,\r\nYesu ohera, nowachonwa kama.\r\n\r\n2. \r\nYesu ohera; en notho,\r\nYawo dho rangach polo;\r\nEn ogolo richo maga,\r\nEn oyiena odonj cha.\r\n\r\n3. \r\nYesu ohera, en odong'\r\nKoda nyaka chieng' atho;\r\nKa ahere  kindepiny,\r\nEn notera dalane.",
+    "number": 94
+  }
+},
+{
+  "model": "hymns.hymn",
+  "pk": 95,
+  "fields": {
+    "title": "Yesu dwaro abed taya",
+    "lyrics": "1.\r\nYesu dwaro abed taya,\r\nMorieny kuome pile;\r\nAtim long'one ndalo duto,\r\nE dala, e skul, e tich.\r\n\r\nAn taya, an taya,\r\nYesu dwaro abed taya;\r\nAn taya, an taya,\r\nAbed taya mar Yesu.\r\n\r\n2.\r\nYesu dwaro an gi hera,\r\nGi kinda kuom ji te;\r\nMondo ji onge' ni,\r\nAn nyathine mamor.\r\n\r\n3. \r\nAn akwa Yesu okonya,\r\nMond' chunya obed maler;\r\nNgima na obed kuom Yesu,\r\nMorieny kuome pile.\r\n\r\n4. \r\nAnabed taya kuom Yesu,\r\nAnyalo ka atemo;\r\nTiyone pile ka pile,\r\nNyaka nadag e polo.",
+    "number": 95
+  }
+},
+{
+  "model": "hymns.hymn",
+  "pk": 96,
+  "fields": {
+    "title": "Yesu kotaya pile",
+    "lyrics": "1.\r\nYesu kotaya pile,\r\nOrit a mang'won;\r\nAn kabedo bute,\r\nOnge gi manyalo luor.\r\nWinje, machalo duonde\r\nMalaika ma wero\r\nWeche mabiro ira,\r\nWeche mamiya mor.\r\n\r\nYesu kotaya pile,\r\nOrit a mang'won;\r\nAni kabedo bute,\r\nOnge gi manyalo luor.\r\n\r\n2. \r\nYesu kotaya pile,\r\nOk anaparora;\r\nPiny ok nyal teroa,\r\nKata richo ketha;\r\nKata aparo ndalo,\r\nOk analuor gi moro;\r\nKata ane masira,\r\nChieng' anamor kuno.\r\n\r\n3.\r\nAn anadhi ka Yesu,\r\nEn ma notho kuomwa\r\nPile ageno Yesu,\r\nLuandana mageng'ona,\r\nPiny pod otimo mudho,\r\nKa pod awuotho ka;\r\nPiny to norumo piyo,\r\nEka anadhi kuno.",
+    "number": 96
+  }
+},
+{
+  "model": "hymns.hymn",
+  "pk": 97,
+  "fields": {
+    "title": "Yesu biro",
+    "lyrics": "1.\r\nYesu 'biro, Yesu 'biro,\r\nNi mondo ochok joge,\r\nJoge duto, joge duto,\r\nMoseyie En.\r\n\r\nKaka sulwe mae polo\r\nMineno gotieno.\r\nGinibedi gi Yesu\r\nE polo maler.\r\n\r\n2.\r\nEnochokgi, enochokgi,\r\nNyithinde malong'o;\r\nJo mabeyo, jo mabeyo,\r\nMoseyie En.\r\n\r\n3. \r\nWan nyithinde, wan nyithinde,\r\nMohero Jawarwa.\r\nEnoomwa, enoomwa,\r\nWanadagi kode.",
+    "number": 97
+  }
+},
+{
+  "model": "hymns.hymn",
+  "pk": 98,
+  "fields": {
+    "title": "Mond Salem",
+    "lyrics": "1.\r\nMond Salem nokelo Nyithindgi ir Ruoth Yesu,\r\nJopuonjore ne ok gimor Gidwaro riembogi.\r\nTo Yesu ka nonenogi, Nowacho ka nomor kama,\r\nKik ugeng' nyithindo gibi Ira ku.\r\n\r\n2.\r\nAn to anaruakgi, Amor ahinya kodgi;\r\nTo An ahero kwayogi, a kik uriembgi un.\r\nKa gin gimiya chuny gi ka, e polo ginidag kod an;\r\nKik ugeng' nyithindo gibi Ira ku.\r\n\r\n3.\r\nJakonywa ne ng'won to Noruakogi komorgo;\r\nTo podi ji mang'eny nitie Ma poko owinjo wach;\r\nGin pok ging'eyo wach Nyasaye\r\nGikiya wach mar Ruoth Yesu;\r\nKik ugeng' nyithindo gibi Ira ku.",
+    "number": 98
+  }
+},
+{
+  "model": "hymns.hymn",
+  "pk": 99,
+  "fields": {
+    "title": "Winjo kaka malaika wer",
+    "lyrics": "1.\r\nWinjo kaka malaika wer,\r\n\"Duong'ni kuom Ruoth Yesu,\r\nMarembe ni e piny duto\r\nKa Nyasaye nong'wononwa.\"\r\nChunguru gi mor maduong',\r\nPakuru Nyinge mamit,\r\nYesu Kristo onyuole\r\nE dala mar Bethlehem.\r\n\r\nWinjo ka malaika wer\r\n\"Duong' ni kuom Ruoth Yesu.\"\r\n\r\n2. \r\nKristo en gi duong' malo,\r\nKristo en Ruoth mochwere,\r\nNosebiro kaka dhano\r\nKa noweyo duong'ne;\r\nTo wang'eyo en Nyasachwa,\r\nDuong' obedne pile\r\nMa nodoko Jagachwa:\r\nYesu en Emmanuel.\r\n\r\n3.\r\nDuong' ni kuom Ruoth mirembi,\r\nDuong' ni Ruoth makare,\r\nMokelonwa ler gi ngima,\r\nKochangowa e richo,\r\nKa nobiro reso jogo\r\nMa nobedo e mudho;\r\nNomiyogi tekone",
+    "number": 99
+  }
+},
+{
+  "model": "hymns.hymn",
+  "pk": 100,
+  "fields": {
+    "title": "Mor ni e piny",
+    "lyrics": "1.\r\nMor ni e piny kuom nyuol Jawar,\r\nEn Ruodh pinje duto.\r\nRuakeuru e chunyu duto\r\nPolo gi piny omor,\r\nPolo gi piny omor,\r\nTo polo gi piny omor kuome.\r\n\r\n2.\r\nMor ni e piny; Ruoth oloyo!\r\nJi duto pake.\r\nPinje gi gode duto pake\r\nKomiye duong' maber,\r\nKomiye duong' maber,\r\nKomiye, komiye duong' kod pak.\r\n\r\n3.\r\nKik richo loyo piny koro,\r\nTo yieru Yesu,\r\nNobiro reso jo ma nolal,\r\nKendo nokel hawi,\r\nKendo nokel hawi,\r\nNokel hawi ni jo moyie.\r\n\r\n4.\r\nOloyo gadieri chutho!\r\nOgendini none\r\nTimne makare kod ng'wonone,\r\nKod herane maduong',\r\nKod herane maduong',\r\nHerane, hearane maduong' chutho.",
+    "number": 100
+  }
+},
+{
+  "model": "hymns.hymn",
+  "pk": 101,
+  "fields": {
+    "title": "Biuru un duto",
+    "lyrics": "1.\r\nBiuru un duto, mobedo gi kinda,\r\nWanadhi Bethlehem gi mor e chunywa.\r\nNeuru Ruodhwa, mosebiro e piny.\r\n\r\nBiuru ka wapake,\r\nBiuru ka wadende,\r\nBiuru ka walame,\r\nYesu Ruodhwa.\r\n\r\n2.\r\nJo-malaika wero, wer mamit moloyo,\r\nKa gikelo weche mabeyo mag polo;\r\nDuong' ni Nyasaye, kod mirimbe nie piny.\r\n\r\n3.\r\nKamano wadendi, Yesu, Jawarwa;\r\nNyingi obed maduong' nyaka chieng',\r\nMoseelonwa hera mar Nyasachwa.",
+    "number": 101
+  }
+},
+{
+  "model": "hymns.hymn",
+  "pk": 102,
+  "fields": {
+    "title": "Otieno mokwe",
+    "lyrics": "1.\r\nOtieno mokwe! Otieno moling'\r\nPiny olil, sulwe rieny\r\nLoka kama Nyathi oninde,\r\nJo maler e ma norite mos\r\nKwe mar polo ni kodgi.\r\nKwe mar polo ni kodgi.\r\n\r\n2.\r\nOtieno mokwe! Otieno maber!\r\nMudho 'rumo, duto ler;\r\nJokwath winjo ka malaika wer,\r\n\"Haleluyani Ruoth Maduong.\r\nOsenyuolnu Jawar,\r\nOsenyuolnu Jawar.\"\r\n\r\n3.\r\nOtieno mokwe! Mudho onge!\r\nSulwe rieny, tero ler,\r\nAjuoke moa yo wuok chieng'\r\nKelo mich mabeyo ni Nyathi!\r\nEn Ruoth Yesu ma Jawar,\r\nEn Ruoth Yesu ma Jawar.\r\n\r\n4.\r\nOtieno mokuwe! Otieno maber!\r\nLer mondo orienynwa,\r\nWanamiye duong' kwawero\r\nHaleluya ni Yesu Ruodhwa!\r\nEn Jawarwa maduong',\r\nEn Jawarwa maduong'.",
+    "number": 102
+  }
+},
+{
+  "model": "hymns.hymn",
+  "pk": 103,
+  "fields": {
+    "title": "Jokwath machon kobedo piny",
+    "lyrics": "1.\r\nJokwath machon, kobedo piny,\r\nNe rito rombegi:\r\nTo Malaika mar Nyasaye\r\nNosudo kod duong'.\r\n\r\n2. \r\nKa ne giluor, nohoyogi\r\nMowacho, Kik uluor,\r\nEn wach maber makelonu,\r\nOmiyo mor jopiny.\r\n\r\n3. \r\nE dala Daudi, Bethlehem,\r\nWuod Daudi, Kristo Ruoth,\r\nOnyuolnu: ma e Jakony.\r\nTo mani en ranyisi.\r\n\r\n4.\r\nUnyalo neno nyathiu\r\nMoa e polo cha:\r\nOnindo kosiko dhok\r\nKoum gi law mayom.\r\n\r\n5. \r\nJaote to notieko wach,\r\nOganda be nowuok, Jomalaika\r\nNe giwer\r\nKapako Ruoth kama:\r\n\r\n6.\r\nNi Ruoth man malo duong' odok,\r\nMirimbe kuom jopiny\r\nMa Ruoth Nyasaye gi ng'wonone\r\nOhero, nyaka chieng'.",
+    "number": 103
+  }
+},
+{
+  "model": "hymns.hymn",
+  "pk": 104,
+  "fields": {
+    "title": "Kristo osechier tinende",
+    "lyrics": "1.\r\nKristo osechier tinende: Alleluya!\r\nChieng' mwamorie, Chieng' mwawalo: Alleluya!\r\nE msalaba chon notho: Alleluya!\r\nMondo oreswa e masichwa: Alleluya!\r\n\r\n2.\r\nBer wadend gi pak gi wende! Alleluya!\r\nKristo Ruoth mae polo malo: Alleluya!\r\nMak noluoro tho gi liel: Alleluya !\r\nMondo owargo jo maricho: Alleluya!\r\n\r\n3.\r\nKuom masira ma noneno: Alleluya!\r\nWaseyudo konyruok marwa: Alleluya!\r\nKoro oloyo malo cha: Alleluya!\r\nKa ma malaika werie: Alleluya!",
+    "number": 104
+  }
+},
+{
+  "model": "hymns.hymn",
+  "pk": 105,
+  "fields": {
+    "title": "Nonindo e i bur",
+    "lyrics": "1.\r\nNonindo e i bur,\r\nYesu Jawarwa;\r\nNochier bang' ndalo adek,\r\nYesu Ruodhwa.\r\n\r\nNochier nowuok e liende\r\nGi teko mar Nyasaye man Malo,\r\nNochier ma noloyo tho gi Jachien,\r\nOngima tinende modak gi joge,\r\nOsechier! Osechier!\r\nHaleluya, Ruoth nochier.\r\n\r\n2.\r\nNe girito liel mar,\r\nYesu Jawarwa;\r\nNe girito kayiem,\r\nYesu Ruodhwa.\r\n\r\n3.\r\nTho ok nohingo Ruoth,\r\nYesu Jawarwa;\r\nTo noriembonwa tho,\r\nYesu Ruodhwa.",
+    "number": 105
+  }
+},
+{
+  "model": "hymns.hymn",
+  "pk": 106,
+  "fields": {
+    "title": "Wich ma ne kudho ochwowo",
+    "lyrics": "1.\r\nWich ma ne kudho ochwowo chon\r\nOyudo koro duong':\r\nJalocho ma ndalo duto\r\nOlocho nyaka chieng'.\r\n\r\n2.\r\nTo kar maduong' e polo ku\r\nEn Mare kende Owuon;\r\nEn Ruoth moloyo ruodhi piny,\r\nRuodh polo nyaka chieng'.\r\n\r\n3.\r\nOmiyo jo ma malo mor\r\nGi jo modak e piny,\r\nMoelonigi herane,\r\nMong'eyo nyinge ka.\r\n\r\n4.\r\nOmiyogi Yadh thone to\r\nGi hape mak rum,\r\nTo nyingegi gisiko chuth,\r\nGiyudo mor maler.\r\n\r\n5.\r\nOsandogi kod Yesu ka,\r\nGiloyo kode ku:\r\nGihero ng'eyo herane\r\nE hera maokrum.\r\n\r\n6.\r\nYadh tho noting'o okonyowa,\r\nKata nonege cha:\r\nTo joge e mogenogo\r\nGidende nyaka chieng'.",
+    "number": 106
+  }
+},
+{
+  "model": "hymns.hymn",
+  "pk": 107,
+  "fields": {
+    "title": "Koro winji duond Jakwadhwa",
+    "lyrics": "1.\r\nKoro winji duond Jakwadhwa,\r\nE thim mar mudho kumabor,\r\nKoluongo rombe moselal,\r\nMa dhi mabor ahinya.\r\n\r\nKelgi ira, kelgi ira,\r\nKelgi ira a e yo marach,\r\nKelgi ira kelgi ira,\r\nKel jo moruenyo ir Yesu.\r\n\r\n2.\r\nNg'a modhi konyo Jakwadhwa,\r\nKonye yudo jo moselal?\r\nNg'a ma nodhi kelgi ira,\r\nKa ma giniyud konyruok?\r\n\r\n3. \r\nE mudho winjo ka giyuak,\r\nOko e got mabor ngang' ngang';\r\nWinji nduond Ruoth kowachoni,\r\n\"Dhi dwar rombe ka ma gilalie.\"",
+    "number": 107
+  }
+},
+{
+  "model": "hymns.hymn",
+  "pk": 108,
+  "fields": {
+    "title": "Yesu nolo kwonde duto",
+    "lyrics": "1.\r\nYesu nolo kwonde duto\r\nKa ma wang' chieng' norieny maler;\r\nPinje nochop e giko piny\r\nNyaka polo gi piny norum.\r\n\r\n2. \r\nNolame pile nyaka chieng',\r\nJi duto nomie duong';\r\nNyinge mamit nopak maber.,\r\nJoge nokulre nyim Jakony.\r\n\r\n3. \r\nDho udi ower mamor\r\nKuom herane moriwo ji;\r\nNyithindo to gipake\r\nKuom hapi to makonyogi.\r\n\r\n4.\r\nE bwoye hawi omedore;\r\nJachan omor kuom wach maber;\r\nTo jo matuo gigene;\r\nJi duto oyudo kwe kuom En.\r\n\r\n5. \r\nKoro ji duto omie duong';\r\nEn Ruoth mae polo kod piny;\r\nMalaika giwer mamor,\r\nWapake Ruoth ma nyaka chieng'.",
+    "number": 108
+  }
+},
+{
+  "model": "hymns.hymn",
+  "pk": 109,
+  "fields": {
+    "title": "Yesu luongo nyithindo duto",
+    "lyrics": "1.\r\nYesu luongo nyithindo duto, odwaro gibi kuome\r\nOhero nyithindo duto ma nie piny;\r\nOdwaro golo richo waluwe kod yie;\r\nOhero nyithindo duto te.\r\n\r\nYesu ohero nyithindo duto,\r\nManie pinje duto te;\r\nGi wasungu gijoratenge,\r\nGi Wahindi gi duto,\r\nOdwaro ji duto te.\r\n\r\n2. \r\nEn jakwath mag nyithindo,\r\nOhero nyithindo duto ma nie piny,\r\nEn jakonywa man gi teko oriembo nwaricho\r\nOdwaro nyithindo duto te.\r\n\r\n3. \r\nYesu Ruodhwa, e mokwongo waluwe gi teko,\r\nOmiwa ng'wono mare duto te,\r\nWawe richo mawa, wagene pilepile,\r\nOhero waduto te",
+    "number": 109
+  }
+},
+{
+  "model": "hymns.hymn",
+  "pk": 110,
+  "fields": {
+    "title": "Dwaruru jo molal",
+    "lyrics": "1.\r\nDwaruru jo molal, Jo ma ni e tho;\r\nKod ng'wono golgiuru e richo.\r\nGi hera maduong', Chung jo mopodho,\r\nNyisgini Yesu emanyalo warogi.\r\n\r\nDwaruru jo molal, Jo ma ni e tho;\r\nYesu ni kod ng'wono Ma diwargi.\r\n\r\n2. \r\nKata gisekwere, Pod oritogi,\r\nKa gilokore enoruakgi.\r\nSagi mondo gibi, Jiwgi gi muolo;\r\nYesu oweyo richo kuom yie.\r\n\r\n3. \r\nJachien owuondo Chuny jo maricho;\r\nTo Yesu e manyalo resogi.\r\nOsebiro dwaro Jo ma noruenyo,\r\nMondo okelgi e mor mar Nyasaye.\r\n\r\n4. \r\nDwaruru jo molal; Osechikowa,\r\nKendo Ruoth nomii teko pile.\r\nKelgi eyo madiny, Yuwagi gi kinda,\r\nNyisgi kuom Yesu mosethonigi.",
+    "number": 110
+  }
+},
+{
+  "model": "hymns.hymn",
+  "pk": 111,
+  "fields": {
+    "title": "Chuoyo ndalo duto",
+    "lyrics": "1.\r\nChuoyo ndalo duto, chuoyo koth Injili,\r\nChuoyo wach adiera nyaka chieng' watho.\r\nKeyo e mabiro, piny ochiek gilala,\r\nWanamor ahinya, wanamor maber.\r\n\r\nKeyo biro wuok,\r\nKeyo biro wuok,\r\nWanamor gilala,\r\nKeyo biro wuok.\r\n\r\n2. \r\nChuoyo pinje duto, kaa tek ahinya,\r\nYesu e mochiko to wadhi koro:\r\nWan gi kinde tinde, kik wanind koro,\r\nEnde wadhiuru chuoyo wach maber.\r\n\r\n3. \r\nKata en Jachien, e mawuonda nono,\r\nE mamaya chutho jomodagi wach:\r\nTo wacho gi kinda, wanatim sinani,\r\nKeyo biro chopo, wanamor maber.",
+    "number": 111
+  }
+},
+{
+  "model": "hymns.hymn",
+  "pk": 112,
+  "fields": {
+    "title": "Winjuru luong moa gi kumabor",
+    "lyrics": "1.\r\nWinjuru luong moa gi kumabor,\r\n\"Ornwa ler, Ornwa ler,\"\r\nOnego wadhi reso joma nolal;\r\nKwalando wechene.\r\n\r\nLanduru Wach Yesu ma Jawar,\r\nLerne mond' orieny e piny,\r\nLanduru Wach Yesu ma Jawar,\r\nLerne mond' orieny ni ji.\r\n\r\n2. \r\nWasewinjo kaka ikwayo kama,\r\n\"Bi loka, ikonywa.\"\r\nWanachiwo ni Yesu ngimawa duto,\r\nKwalando wechene.\r\n\r\n3. \r\nWanalam mondo ng'wono omedrenwa;\r\nKawalando wechene,\r\nHera mar Yesu ojiwowa pile,\r\nKawalando wechene.\r\n\r\n4. \r\nKik wajony kwatiyo ni Ruodhwa Yesu.\r\nKawalando wechene,\r\nWakano mwandu e polo kuom Yesu,\r\nKawalando wechene.",
+    "number": 112
+  }
+},
+{
+  "model": "hymns.hymn",
+  "pk": 113,
+  "fields": {
+    "title": "Wasewinjo wach maber",
+    "lyrics": "1.\r\nWasewinjo wach maber, Yesu ni Jawarwa;\r\nTo keyuru wechegi, Yesu ni Jawarwa.\r\nLanduru e pinje te, puonjuru ji wach maber,\r\nRuodhwa e ma chikowa, Yesu ni Jawarwa.\r\n\r\n2. \r\nWeruru pile pile, Yesu ni Jawarwa.\r\nNe otho kendo nochier, Yesu ni Jawarwa.\r\nWeruru ni ji matuo, ka gidwaro hewore,\r\nWeruru e kar liete, Yesu ni Jawarwa,\r\n\r\n3. \r\nChon ne wakia wechegi, Yesu ni Jawarwa;\r\nKoro wan wamor ngang', Yesu ni Jawarwa,\r\nChon ne wadak e mudho ka, ti waneno ler Nyasaye\r\nE momiyo mudho tur, Yesu ni Jawarwa.\r\n\r\n4.\r\nYaluru e piny ma ka, Yesu ni Ja warwa;\r\nYaluru e pinje wa, Yesu ni Jawarwa.\r\nKik wadeki, kik waling', nyaka Yesu duogi,\r\nNyaka ji duto ong'e, Yesu ni Jawarwa.",
+    "number": 113
+  }
+},
+{
+  "model": "hymns.hymn",
+  "pk": 114,
+  "fields": {
+    "title": "Adwaro odonj e polo",
+    "lyrics": "1.\r\nAdwaro odonj e polo,\r\nAdwaro odonj e polo,\r\nAdwaro odonj e polo,\r\nNabedi gi Nyasaye.\r\n\r\nKa odonj e polo, Nabedi gi Yesu,\r\nKa odonj e polo, Nabedi gi Nyasaye.\r\n\r\n2.\r\nKudwaro bedo gi Nyasaye,\r\nKudwaro bedo gi Nyasaye,\r\nKudwaro bedo gi Nyasaye,\r\nBiuru ir Yesu.\r\n\r\n3. \r\nKudwaro long'oni Yesu,\r\nKudwaro long'oni Yesu.\r\nKudwaro long'oni Yesu,\r\nTiuru tich Nyasaye.\r\n\r\n4. \r\nKudwaro tiyo tich Nyasaye,\r\nKudwaro tiyo tich Nyasaye,\r\nKudwaro tiyo tich Nyasaye,\r\nKwauru chuny maler.\r\n\r\n5.\r\nKudwaro yudo chuny maler.\r\nKudwaro yudo chuny maler.\r\nKudwaro yudo chuny maler.\r\nWeuru richou.\r\n\r\n6. \r\nKuyie weyo richou.\r\nKuyie weyo richou.\r\nKuyie weyo richou.\r\nNudonj e polo.",
+    "number": 114
+  }
+},
+{
+  "model": "hymns.hymn",
+  "pk": 115,
+  "fields": {
+    "title": "Ngwono mawuoro ahinya",
+    "lyrics": "1.\r\nNgwono mawuoro ahinya.\r\nMa nowara chutho;\r\nNalal marach, to nonwang'a.\r\nTo koro apake.\r\n\r\n2.\r\nNopuonja gi ng'wono bende.\r\nNyaka chunywa noyie;\r\nNe oberna ka naneno,\r\nWach herane kuoma.\r\n\r\n3.\r\nKata awuotho e chandruok,\r\nKod tem mathoth mag piny;\r\nKuom ng'wonone oserita.\r\nRitne e mageno.\r\n\r\n4.\r\nWanapake higini mak rum\r\nEpolo malo cha.\r\nTo pod norem wanamiye duong'\r\nKaka owinjore.",
+    "number": 115
+  }
+},
+{
+  "model": "hymns.hymn",
+  "pk": 116,
+  "fields": {
+    "title": "Achiwoni Yesu duto!",
+    "lyrics": "1.\r\nAchiwoni Yesu duto!\r\nKata teko ma ango;\r\nWechena gi timbe duto\r\nMondo opake pile.\r\n\r\nDuto nobed kuom Ruoth Yesu,\r\nNgimana nobed mare.\r\n\r\n2. \r\nLueta mondo otim dwarone,\r\nTienda odhi e yore,\r\nWang'a none Yesu kende\r\nDhoga mondo opake.\r\nDuto nobed kuom Ruoth Yesu,\r\nNgimana nobed mare.\r\n\r\n3. \r\nNateg wang'a kuom Ruoth Yesu,\r\nKik gimoro oyuwaya\r\nChunya to nopare pile Kaka nothona e Yath.\r\nDuto nobed kuom Ruoth Yesu,\r\nNgimana nobed mare.\r\n\r\n4. \r\nNg'wono maduong' ma wuoro\r\nKa Yesu, ma Ruodh Polo\r\nOluonga jahera mare;\r\nOmiya yuweyo kuome.\r\nDuto nobed kuom Ruoth Yesu,\r\nNgimana nobed mare.",
+    "number": 116
+  }
+},
+{
+  "model": "hymns.hymn",
+  "pk": 117,
+  "fields": {
+    "title": "Kik uluor kata uchandoru",
+    "lyrics": "1.\r\nKik uluor kata uchandoru,\r\nNyasaye doritou;\r\nBeduru but Yesu pile,\r\nNyasaye doritou.\r\n\r\nNyasaye doritou ndalo duto.\r\nKa mudhiye, Nyasaye doritou,\r\nNyasaye doritou.\r\n\r\n2.\r\nKa jo makwer gichandou,\r\nNyasaye doritou,\r\nKupuonjo ji gi Wechene,\r\nNyasaye doritou.\r\n\r\n3. \r\nGik muchando En domiu.\r\nNyasaye doritou,\r\nGik moko maber mukwaye,\r\nNyasaye domiyou.\r\n\r\n4. \r\nKata uneno dhier ahinya,\r\nNyasaye doritou.\r\nLame gi chunyu ndalo duto.\r\nNyasaye doritou.",
+    "number": 117
+  }
+},
+{
+  "model": "hymns.hymn",
+  "pk": 118,
+  "fields": {
+    "title": "Nyaka wanaromre duto te",
+    "lyrics": "1.\r\nNyaka wanaromre duto te,\r\nRuoth oritu, puonju, konyu,\r\nRuaku te e kunde chutho;\r\nRuoth oritu nyaka e polo.\r\n\r\nWananere te, wananere te,\r\nWananere cha e tiend Yesu;\r\nWananere te, wananere te,\r\nRuoth oritu nyaka e polo.\r\n\r\n2.\r\nNyaka wananere duto te;\r\nBade mondo oumu chutho,\r\nChiembe be opognu pile,\r\nRuoth oritu nyaka e polo.\r\n\r\n3.\r\nNyaka wananere duto te;\r\nKa ukedo gi masiche,\r\nRuoth obedo gi nyithinde,\r\nRuoth oritu nyaka e polo.\r\n\r\n4. \r\nNyaka wananere duto te.\r\nHerane ni kuomwa koro,\r\nRuoth jageng'aelueny moloyo,\r\nRuoth oritu nyaka epolo.",
+    "number": 118
+  }
+},
+{
+  "model": "hymns.hymn",
+  "pk": 119,
+  "fields": {
+    "title": "Mor mar piny ok nyal ywaya",
+    "lyrics": "1.\r\nMor mar piny ok nyal ywaya,\r\nAn dabed ka Yesu,\r\nBer mar pinyni ok notera,\r\nAn dabed ka Yesu.\r\n\r\nBed ka Yesu, en wenda,\r\nE kuonde duto pile;\r\nBedo kaka Ruoth Yesu!\r\nAn dabed ka Yesu.\r\n\r\n2. \r\nTemruok duto osegolo,\r\nAn dabed ka Yesu;\r\nMondo atine ndalo duto,\r\nAn dabed ka Yesu\r\n\r\n3. \r\nE yore duto mawuothe,\r\nAn dabed ka Yesu;\r\nKalando wechene pile,\r\nAn dabed ka Yesu.\r\n\r\n4. \r\nNyaka chieng' matundo ire,\r\nAn dabed ka Yesu;\r\nMondo owachna, \"In jahawi\",\r\nAn dabed ka Yesu.",
+    "number": 119
+  }
+},
+{
+  "model": "hymns.hymn",
+  "pk": 120,
+  "fields": {
+    "title": "Awuoro ng'wono mar Nyasaye",
+    "lyrics": "1.\r\nAwuoro ng'wono mar Nyasaye,\r\nMosefwenyorena;\r\nHera mar Yesu ka notho,\r\nNowara e richo.\r\n\r\n\"Ang'eyo Jalo ma aseyie,\r\nTo ayie chutho onyalo rito\r\nNgimana gi chunya duto\r\nNyaka ndalo nogono.\"\r\n\r\n2.\r\nAwuoro ka nochiwona\r\nYie ma osewara;\r\nKendo geno Wachne chutho\r\nMomiya kwe e chunya.\r\n\r\n3.\r\nAwuoro ka Roho Maler\r\nOnyiso kuom richo;\r\nMofwenyo Yesu gi Wachne,\r\nKokelo yie kuome.\r\n\r\n4. \r\nAwuoro kaka Ruoth nobi\r\nChieng' moro nooma;\r\nOdiechieng' kata odiwuor,\r\nMos wanarom kode,",
+    "number": 120
+  }
+},
+{
+  "model": "hymns.hymn",
+  "pk": 121,
+  "fields": {
+    "title": "Onge gimoro mak aseyudo,",
+    "lyrics": "1.\r\nOnge gimoro mak aseyudo,\r\nNg'wono nomiya nyaka aseyie,\r\nSunga aweyo, sungore bende,\r\nAn jaricho, to ng'wono osewara.\r\n\r\nYesu nowara gi ng'wono,\r\nYesu nowara gi ng'wono;\r\nMani ang'eyo, ami Nyasaye duong'\r\nAn jaricho to ng'wono osewara.\r\n\r\n2. \r\nChon an nafuwo, richo notelona,\r\nNabayo ok naluw yor Nyasaye,\r\nYesu noyuda, koro amor,\r\nAn jaricho, to ng'wono osewara.\r\n\r\n3.\r\nNachwero pi wang', to ok nokonya,\r\nDa onge ng'wono, onego atine;\r\nRicho noloya, aluoro wang' Nyasaye,\r\nAn jaricho, to ng'wono osewara.",
+    "number": 121
+  }
+},
+{
+  "model": "hymns.hymn",
+  "pk": 122,
+  "fields": {
+    "title": "Anawer wende malong'o",
+    "lyrics": "1.\r\nAnawer wende malong'o\r\nKuom Yesu ma nothona,\r\nNoweyo duong'ne e polo\r\nMondo otho e Kalvari.\r\n\r\nAnawer wende miwuoro\r\nKuom Kristo ma nothona,\r\nWeruru, jo maler duto\r\nMan e polo gi piny ka.\r\n\r\n2.\r\nKa nalal Yesu nonwang'a\r\nKaka rombo morwenyo,\r\nGi hera maber moloyo\r\nMa noduoka e yore.\r\n\r\n3. \r\nJawarna nowara chutho\r\nKuom richo ma noloya,\r\nNaketho, luoro nomaka,\r\nTo noresa kuom duto.\r\n\r\n4. \r\nChandruok podi obiro kuoma\r\nKaneno chuny lit bende,\r\nTo Jawarna ok oweya,\r\nOhoya maber pile.",
+    "number": 122
+  }
+},
+{
+  "model": "hymns.hymn",
+  "pk": 123,
+  "fields": {
+    "title": "Yesu ruodhwa adwaro chunyi",
+    "lyrics": "1.\r\nYesu ruodhwa, adwaro chunyi,\r\nNi mondo osik koda pile pile,\r\nGol kuoma maricho gi tim duto,\r\nMa ni e chunya, mopoga kodi.\r\n\r\nLuoka mapoth,\r\nYaye, luoka mapoth,\r\nNyaka chunya owinjore\r\nGi chuny mari.\r\n\r\n2. \r\nYesu Ruodhwa, kik iwe gimoro,\r\nTo duny kethona gi rembi chutho,\r\nAjok kod gik piny ma nono,\r\nAdwaro mor mo a e polo.\r\n\r\n3. \r\nYesu Ruodhwa, nena ka ma intie,\r\nKendo konya ni mondo ayik chunya,\r\nNaweyo tim mar ji gi kit piny te,\r\nKoro luoka gi rembi nadok maler.\r\n4.\r\nYesu Ruodhwa, Ne ariti pile,\r\nBi ilosna chuny manyien chutho.\r\nKuom jo mosekwayi ok ikwer,\r\nTo luoka mapoth eka nabed maler.",
+    "number": 123
+  }
+},
+{
+  "model": "hymns.hymn",
+  "pk": 124,
+  "fields": {
+    "title": "Mwandu mar piny nokadhi",
+    "lyrics": "1.\r\nMwandu mar piny nokadhi,\r\nKod fedha duto te,\r\nTo Piny Ruoth e mosiko\r\nE madwaro donje,\r\nNyinga ni e bugi,\r\nMar Ruoth Yesu koso?\r\nMi chunya ng'eyo chutho\r\nKa nyinga ni kuno.\r\n\r\nKoso nyinga nitie\r\nE ebuk Maler\r\nMar Piny Ruodh Yesu Kristo;\r\nKoso nyinga nitie?\r\n\r\n2. \r\nRichona thoth ahinya.\r\nTo awinjo kaka\r\nRemb Yesu e mawaro\r\nJi duto moyie.\r\nKoro ageno Wachni\r\nMonyiso kuom richo,\r\n\"Kata gibedo makwar\r\nNalokgi ma rachar.\"\r\n\r\n3.\r\nKamano amor bende\r\nKageno Wecheni\r\nKuom udi mani e polo\r\nMilosonwa kar bet.\r\nRicho ok nodonj kuno\r\nKata ketho moro.\r\nYesu En e mowara\r\nEe, nyinga nondiki.\r\n\r\nChorus mar verse 3 ni:\r\nKoro nyinga nitie, (kod kamano)",
+    "number": 124
+  }
+},
+{
+  "model": "hymns.hymn",
+  "pk": 125,
+  "fields": {
+    "title": "Ka wageno remb Ruodhwa",
+    "lyrics": "1.\r\nKa wageno remb Ruodhwa,\r\nWan gi ngima moromowa,\r\nRicho mawa noluoko,\r\nKod rembe ma nochwernwa.\r\n\r\nTo kuom Yesu wachungo,\r\nEn-ye lwandana mangima,\r\nEn-ye lwandana mangima.\r\n\r\n2.\r\nKatayora otimo mudho,\r\nKonyruokne miyowa teko;\r\nKata achandora malich,\r\nKagene pile nokuweya.\r\n\r\n3.\r\nRembe gi singruok gi muma,\r\nKageno pile, gisira,\r\nKata gi piny duto norum,\r\nYesu Ruodhwa e moroma.",
+    "number": 125
+  }
+},
+{
+  "model": "hymns.hymn",
+  "pk": 126,
+  "fields": {
+    "title": "Wuora ni gi udi gi piny mathoth",
+    "lyrics": "1.\r\nWuora ni gi udi gi piny mathoth,\r\nMwandu mag pinyni duto ni e luete!\r\nFedha gi dhahabu gi dhok mabeyo,\r\nDuto mag Wuora,\r\nEn gi mwandu mathoth.\r\n\r\nAn jacham mwandune,\r\nJacham mwandune!\r\nKod Yesu Jawarna,\r\nAn jacham mwandune.\r\n\r\n2.\r\nWuode mohero, nodoko Jawar.\r\nNowuotho e piny ka jachan nikech wan;\r\nTo koro oloyo e polo gi duong',\r\nChieng' moro nadhi kar dakna e polo.\r\n\r\n3.\r\nRichona mathoth nopoga chutho\r\nBedo jacham mwandu; To koro amor\r\nKonyuola manyien gi chuny mar Nyasaye\r\nNyinga nondiki, an nyathi Ruoth polo!\r\n\r\n4.\r\nGik ma ango ka, to kata ginok,\r\nOlosona kar bet malich e polo!\r\nAn wendo e pinyni, to pod awero:\r\n\"Duong' ni Nyasaye, an nyathi Ruodh polo!",
+    "number": 126
+  }
+},
+{
+  "model": "hymns.hymn",
+  "pk": 127,
+  "fields": {
+    "title": "Yesu Jawarwa nobiro",
+    "lyrics": "1.\r\nYesu, Jawarwa, nobiro Bethlehem,\r\nKoweyo duong'ne koruako kitwa,\r\nKuom mano awuoro apako Nyinge,\r\nNobiro warowa.\r\nNobiro warowa, nobiro warowa,\r\nKuom mano awuoro apako Nyinge,\r\nNobiro warowa.\r\n\r\n2.\r\nYesu, Jawarwa, nodhi Kalvari,\r\nNochulo gopwa nogonyo chunya;\r\nKuom mano awuoro apako Nyinge,\r\nKotho kuom richowa.\r\nKotho kuom richowa, kotho kuom richowa.\r\nKuom mano awuoro apako Nyinge,\r\nKotho kuomwa, kuomwa\r\n\r\n3.\r\nYesu, Jawarwa, noluonga ire,\r\nKawuotho e yo marach mar mudho,\r\nNoluonga aming'a gi ng'wonone,\r\nNoluonga gi ng'wono.\r\nNoluonga gi ng'wono, noluonga gi ng'wono,\r\nNoluonga aming'a gi ng'wonone,\r\nNoluonga gi ng'wono.\r\n\r\n4.\r\nYesu, Jawarwa, noduog kendo,\r\nMa e genowa mamit malong'o,\r\nAnanene kochung' e kor polo,\r\nKobiro omowa.\r\nKobiro omowa, kobiro omowa,\r\nAnanene kochung' e kor polo,\r\nKobiro omowa.",
+    "number": 127
+  }
+},
+{
+  "model": "hymns.hymn",
+  "pk": 128,
+  "fields": {
+    "title": "Ne onge ot maber kata kitanda",
+    "lyrics": "1.\r\nNe onge ot maber, kata kitanda,\r\nTo kisika kende e moyangore;\r\nNe onge mor maber, ji ok noparo\r\nKa ne gin e richo, Jawar nobiro.\r\n\r\nYaw chunyi, mi Jawarni\r\nKar bet modwaro kuomi,\r\nDipo kitho miwinjo ni,\r\nOnge kar bet mari.\r\n\r\n2.\r\nJi ok nodhi dende, ne ok giparo\r\nKata nowinjore, gi kulorene.\r\nNobiro ni joge, to ok giruake,\r\nDuong' ok gimiye, noonge kar bet.\r\n\r\n3.\r\nTo Nyasaye man malo, nomiye duong'\r\nKa malaikane wer, kwe ma nikuome.\r\nJokwath moko bende, gi jo mariek\r\nNodhi kendo dende; ne giyudo mor.",
+    "number": 128
+  }
+},
+{
+  "model": "hymns.hymn",
+  "pk": 129,
+  "fields": {
+    "title": "Chon malaika nobiro e piny",
+    "lyrics": "1.\r\nChon malaika nobiro e piny\r\nGotieno moro maler,\r\nJokwath ma nekwayo rombe\r\nNowinjo wer mamit.\r\n\"Okwe ni piny,okwe ni ji,\r\nMoa Ruodhwa mang'won.\r\nWakelonu weche mamor,\r\nYesu Kristo onyuol.\"\r\n\r\n2.\r\n\"Wadhiuru Bethlehem,\"\r\nJokwath nowacho kendgi,\r\n\"Mondo wane wachno kaka obet\r\nMa Ruoth osenyisowa.\"\r\n\"Okwe ni Piny, okwe ni ji,\r\nMoa Ruodhwa mang'won.\r\nWaweronu weche mamor,\r\nTinde Jakony onyuol.\"\r\n\r\n3.\r\nGinwang'o min gi nyathine,\r\nKonindo e kund dhok.\r\nGipako kendo dendo Nyasaye\r\nNi kech nooro Wuode.\r\nOkwe ni piny, okwe ni ji.\r\nMa Ruodhwa mang'won.\r\nWakelonu weche mamor,\r\nEmanuel ni kodwa.\"",
+    "number": 129
+  }
+},
+{
+  "model": "hymns.hymn",
+  "pk": 130,
+  "fields": {
+    "title": "Dala Daudi chon gilala",
+    "lyrics": "1.\r\nDala Daudi chon gilala,\r\nKunde dhok nitie kanyo;\r\nKa ma min okete nyathine,\r\nKa ma dhok oninde.\r\nMariam ne nyinge min,\r\nYesu ne nyathi mayom.\r\n\r\n2. \r\nTo noa e polo kucha,\r\nEn moloyo duto cha,\r\nOt maber to en ok oyudo,\r\nEn nobedo nono ka.\r\nYesu e modak e piny,\r\nMondo okony adier jopiny.\r\n\r\n3.\r\nTo nobet nyathi malong'o,\r\nMa nowinjo wuon gi min,\r\nEn Owuon noherogi gilala,\r\nTo ne chunye ler adier.\r\nWun beduru kaka Yesu,\r\nJo mamuol mawinjo wach.\r\n\r\n4.\r\nEn nodongo kaka wan to,\r\nEn ranyis mwaluwo ka;\r\nTo nobet nyathi mochando,\r\nEn nomor to kaka wan.\r\nKendo oparowa kama,\r\nKendo omor kod wan adier.\r\n\r\n5. \r\nOko i kul to wananene,\r\nKa ma dhok oninde:\r\nWananene to e polo,\r\nKa Nyasaye Owuon nitie.\r\nEn modwaro terowa,\r\nWan wabed kode kucha.",
+    "number": 130
+  }
+},
+{
+  "model": "hymns.hymn",
+  "pk": 131,
+  "fields": {
+    "title": "Wakedo gi Jachien",
+    "lyrics": "1.\r\nWakedo gi Jachien kod joge maricho,\r\nYesu En Ruodhwa, otelonwa maber,\r\nWadwaro luwo bang'e ndalo duto,\r\nYesu Jawarwa\r\n\r\nGlory, glory haleluya,\r\nGlory, glory haleluya,\r\nGlory, glory haleluya,\r\nYesu otelonwa\r\n\r\n2. \r\nOk wanyalo nego ji gi bunde kod luth\r\nWadonj kod ji gi Wach gi Much Nyasachwa,\r\nMoko yudo ngima nikech gilokore,\r\nYesu Jawarwa\r\n\r\n3.\r\nKwakedo ka'onyisowa, wanyalo loyo en,\r\nKwalemo pile pile kodi somo Wach Ngima,\r\nWanadok matek kuom kedo,\r\nYesu otelonwa\r\n\r\n4.\r\nAdwaro pako Yesu nikech nowaro ji,\r\nAdwaro pako Yesu nikech nogonyo ji,\r\nAdwaro pako Yesu nikech omiyo ji mor,\r\nYesu Jawarwa",
+    "number": 131
+  }
+},
+{
+  "model": "hymns.hymn",
+  "pk": 132,
+  "fields": {
+    "title": "Yesu Kristo Wuod Nyasaye",
+    "lyrics": "1.\r\nYesu Kristo, Wuod Nyasaye,\r\nChon nobiro konyo dhano.\r\nEn nonyisogi rieko,\r\nEn nochango jo matuo.\r\n\r\nYesu Kristo, Wuod Nyasaye,\r\nOnyisowa, onyisowa rieko.\r\nYesu Kristo, En e Ruodhwa,\r\nWanabed nyithinde adier\r\n\r\n2. \r\nYesu Kristo oloyo duto;\r\nEn modwaro konyowa,\r\nMondo wan wawe gi fuwo,\r\nMondo chunywa gibed maler.\r\n\r\n3. \r\nKoro wan wayie Yesu;\r\nKite long'onwa tinende.\r\nPile pile wanahere,\r\nWachne wanamak adier.",
+    "number": 132
+  }
+},
+{
+  "model": "hymns.hymn",
+  "pk": 133,
+  "fields": {
+    "title": "Ahero pako Yesu nikech nowarowa",
+    "lyrics": "1.\r\nAhero pako Yesu nikech nowarowa,\r\nAdwaro miye duong' ndalo duto ka,\r\nAyie kuom rembe molwoko richo ji,\r\nAmor kuom liswane mosetimo Kalvari.\r\n\r\nYesu oseng'iewa,\r\nNogolo richowa,\r\nNomiyowa ngima,\r\nEn nowachonwa kama\r\n\r\n2.\r\nKa ng'ato oyie Yesu en odoko ng'a manyien,\r\nOmor kuom teko mar Nyasaye man malo,\r\nOhero nyiso ji kuom liswane adier,\r\nMa Yesu nosetimoni ji gi ringre owuon.\r\n\r\n3.\r\nJo moyie Yesu ok nyal dhi e mach,\r\nNoting'ogi e luete ndalo duto ka,\r\nJachien en wasikgi otemogi matek,\r\nTo Yesu en okonyo jo moiko chunygi chuth.\r\n\r\n4.\r\nNdalo moro noomowa gi tung' machien moyuak,\r\nNoterowa e polo wanasik kucha,\r\nNomiwa ringruok manyien nikech nowach kama,\r\nAdwaro neno Yesu mosewarowa.",
+    "number": 133
+  }
+},
+{
+  "model": "hymns.hymn",
+  "pk": 134,
+  "fields": {
+    "title": "Yesu nochier nowuok ei bur",
+    "lyrics": "1.\r\nYesu nochier nowuok ei bur,\r\nGi teko mar Nyasaye;\r\nNotieko bura mar richo,\r\nKuom jo moyie rembe.\r\n\r\nWinuru, lokuru duto,\r\nKurito wiro Ruoth.\r\nChieng' moro En noomwa,\r\nKoterowa e polo.\r\n\r\n2.\r\nNe giruakone kondo\r\nMar kudho e wiye,\r\nKa ginyiere ka en e yath\r\nGi weche maricho.\r\n\r\n3.\r\nJotich mar Yesu nokawo,\r\nRingre gibo e nanga;\r\nGikete e bur mosekuny,\r\nGiritogo chierne.\r\n\r\n4.\r\nJorit norito liende,\r\nNe gikete kidi,\r\nTo ka malaika nobiro\r\nNong'ielo kidino.\r\n\r\n5.\r\nNe ginene ka' odhiyo\r\nE polo malo kucha.\r\nChieng' moro En noduog kendo\r\nKaka ginene kodhi.",
+    "number": 134
+  }
+},
+{
+  "model": "hymns.hymn",
+  "pk": 135,
+  "fields": {
+    "title": "Nyisa weche mag Ruoth Yesu",
+    "lyrics": "1.\r\nNyisa weche mag Ruoth Yesu,\r\nPidhgi duto e chunya,\r\nWeche mabeyo maloyo\r\nDuto ma wasewinjo.\r\nNyisa kaka jomalaika\r\nNower chieng' mar nyuolne.\r\nMarembe kuom ji duto.\r\n\r\n2. \r\nNyis kuom ndalo ma nodhiyo\r\nE thim ka noriyo kech,\r\nNoteme nikech richowa\r\nTo noloyo makare.\r\nNyis kaka notiyo ni ji\r\nKodoko Jawar kuomwa.\r\n\r\n3. \r\nNyisa kaka ne gigure\r\nE Yath koting'o richo,\r\nKochier mongima tinde.\r\nWechego puonja herane\r\nKochandore nikech wan;\r\nChunya okuyo kang'eyo\r\nNothona mondo owara.",
+    "number": 135
+  }
+},
+{
+  "model": "hymns.hymn",
+  "pk": 136,
+  "fields": {
+    "title": "En Ng'awa man e kund dhok",
+    "lyrics": "En Ng'awa man e kund dhok,\r\nMa jokwath olamo cha?\r\n\r\nEn e Ruoth! To En Jawarwa!\r\nEn e Ruoth moloyo duto!\r\nWanagone chongwa piny,\r\nPakeuru, Yesu Ruoth.\r\n\r\n2. \r\nEn Ng'awa e thim kucha,\r\nMa Jachien notemo?\r\n\r\n3. \r\nEn Ng'awa e dho liel,\r\nMa nochiero ng'a motho?\r\n\r\n4. \r\nEn Ng'awa mathiedho ji,\r\nMa noyawo wang' jachan?\r\n\r\n5. \r\nEn Ng'awa mogur e Yath,\r\nMa gisando, ma notho?\r\n\r\n6.\r\nEn Ng'awa mochier maber,\r\nMa noloyo tho adier?\r\n\r\n7. \r\nEn Ng'awa mohera,\r\nMa nogolo richona?\r\n\r\n8. \r\nEn Ng'awa e polo cha,\r\nMa nobi e piny kendo?",
+    "number": 136
+  }
+},
+{
+  "model": "hymns.hymn",
+  "pk": 137,
+  "fields": {
+    "title": "Ruoth Yesu Kristo e Jawar",
+    "lyrics": "1.\r\nRuoth Yesu Kristo e Jawar miwuoro,\r\nJawar maber chutho kuoma;\r\nNochiwo ngimane mondo owara,\r\nHerane e moritago.\r\n\r\nOpando chunya e lwanda mobar,\r\nMomiyo abedo maber;\r\nOpando chunya e tut herane\r\nOuma gi luete mang'won,\r\nOuma gi luete mang'won.\r\n\r\n2. \r\nRuoth Yesu Kristo e Jawar miwuoro,\r\nOgolona gi mapek kuoma,\r\nOrita mondo kik achwanyra ngang';\r\nOmiya tekone pile.\r\n\r\n3. \r\nOmiya gweth mathoth pile ka pile,\r\nMopong'a gi morne chutho,\r\nMapake gi wer gi ilo mar chunya;\r\nAmor gi Jakonyna chutho.\r\n\r\n4. \r\nChieng' moro notera kadhi e polo,\r\nNabed kode nyaka chieng';\r\nKod joge ma noa e pinje duto,\r\nNapake malong'o chutho",
+    "number": 137
+  }
+},
+{
+  "model": "hymns.hymn",
+  "pk": 138,
+  "fields": {
+    "title": "Yesu rembi ma nosechwer",
+    "lyrics": "1.\r\nYesu rembi ma nosechwer,\r\nMaluoko richona;\r\nNochwer mondo ayud warruok,\r\nKoa e ng'et Ruoth.\r\n\r\nRembi Ruodhwa, luoko richo\r\nAluokra abet maber;\r\nAdendo Ruoth, nikech rembe!\r\nMa nochwerna e Kalvari.\r\n\r\n2.\r\nAbedo chwech manyien koro, \r\nKuom remono maler:\r\nDhano machon otho koro,\r\nAngima kuom Yesu.\r\n\r\n3.\r\nAwuotho gi ngima manyien,\r\nMar loyo piny gi keth;\r\nChunya ler bende wuodha ler\r\nKa Kristo odak koda.\r\n\r\n4.\r\nNg'wono miwuoro mar Jawar,\r\nKopwodha gi rembe;\r\nYesu ma nothona e yath\r\nEn Ruoth chunya koro.",
+    "number": 138
+  }
+},
+{
+  "model": "hymns.hymn",
+  "pk": 139,
+  "fields": {
+    "title": "Ka Yesu ni koda anyalo dhi",
+    "lyrics": "1.\r\nKa Yesu ni koda anyalo dhi,\r\nKata manade yuda epiny ma mwaloni:\r\nKa Yesu onge morna orumo,\r\nKa Yesu ni koda ok anyal luor.\r\n\r\nKa Yesu ni koda, luoro onge na;\r\nKa Yesu ni koda ok anyal luor.\r\n\r\n2.\r\nKa Yesu ni koda ok naluor chandruok,\r\nKata tem mang'eny oluoro wang' yora;\r\nEn owuon notelna mondo okonya,\r\nKa Yesu ni koda anyalo loyo.\r\n\r\n3. \r\nKa Yesu ni koda ok an kenda ngang',\r\nKata osiepe weya, to en osiepna;\r\nTo kata otera e yore malich,\r\nKa Yesu nikoda to nabed mamor.\r\n\r\n4.\r\nKa Yesu ni koda anawinj luongne,\r\nKata ochika mondo adhi e pinje mwa;\r\nMondo apuonj jopinyno warruok kuom rembe,\r\nKa mochiko anadhi ka wan kode.",
+    "number": 139
+  }
+},
+{
+  "model": "hymns.hymn",
+  "pk": 140,
+  "fields": {
+    "title": "Wend Jo-Afrika",
+    "lyrics": "1.\r\nJaler aneno Iwenje ng'eny.\r\nAneno Iwenje ng'eny e kind joler (2)\r\n\r\nYesu kedo wanalo, jahera kedonwa wanalo (2)\r\n\r\n2.\r\nRuoth Yesu manene okedo chon,\r\nManene oloyo lweny olamonwa (2)\r\n\r\n3.\r\nKata piny lich masiche dongo\r\nTo Yesu kedonwa wanalo (2)\r\n\r\n4.\r\nDhumbe tara gogendini duto,\r\nGikwero akonya moriwo piny (2)\r\n\r\n5.\r\nWende Yesu mwawero sani\r\nGi nyiso herano mowarowa (2)\r\n\r\n6.\r\nJachien jakinda notemo Ayubu\r\nTo Yesu Lwanda notelone (2)\r\n\r\n7.\r\nAweyo mwandu gi duong'na duto\r\nKahero ngima mohelore (2)\r\n\r\n8.\r\nAgeno dala ma Yesu ong'iewo\r\nNayudi yweyo e paradiso (2)\r\n\r\n9.\r\nJogo duto mowinjo duonde\r\nNochokgi duto e paradiso (2)\r\n\r\n10.\r\nWanamor gi malaika duto\r\nManie polo maritowa (2)",
+    "number": 140
+  }
+},
+{
+  "model": "hymns.hymn",
+  "pk": 141,
+  "fields": {
+    "title": "Ayuak ni Ruodha ka",
+    "lyrics": "1.\r\nAyuak ni Ruodha\r\nMondo ikonya kaa,\r\nKuom kethruok duto\r\nManie piny;\r\nOk anyal loyo tem\r\nKa an kenda,\r\nMak Yesu owuon\r\nEmotelona.\r\n\r\n2. \r\nNdalo ka ndalo\r\nOtem sudona.,\r\nKa jachien owuonda\r\nNi mondo alal:\r\nTo ka an kod Yesu\r\nJachien achayo Nikech Yesu\r\nNyisa riekone.\r\n\r\n3. \r\nMae ndalo marahuma\r\nMonego tich Ruoth\r\nLandre kuonde te,\r\nUjoma lando injili;\r\nTimuru kinda\r\nKik udog chien\r\nTich nomi\r\nRuoth duong'.\r\n\r\n4.\r\nPar wach msalaba.\r\nKendo wapuonjre\r\nKuomi pile,\r\nGik mageng'o yorwago\r\nMa wadhiyo go\r\nE polo magi duto\r\nGin mana\r\nMwandu piny.\r\n\r\n5.\r\nKetri chutho\r\nNi tich Ruoth,\r\nKendo kik iwe\r\nTichni momiyi;\r\nMano osimboni maduong'\r\nMani sidh chieng' giko\r\nNikech tich ng'ato\r\nNoel chieng' bura.\r\n\r\n6. \r\nKik igalri ni osewari,\r\nKiparo ni ngima\r\nNi dhi nidonjie,\r\nAdi mowar oa emudho\r\nMochako odokie\r\nKendo emomiyo\r\nKare ritri\r\nNi ngimani.\r\n\r\n7.\r\nAora nitie\r\nMakadho tek ngang',\r\nTo jokinda machon\r\nKadhogo kaka\r\nAyubu, Nowa, Musa\r\nGi Daudi gi Daniel\r\nBende okadhe\r\nEnyim Sibuoche.\r\n\r\n8.\r\nIn bende timie kinda,\r\nMondo iket\r\nYesu ka Ruodh chunyi,\r\nIng'amo oseko\r\nNg'eyo adier\r\nMar Ruodhwa Yesu,\r\nOk ni luor kata.\r\nKa tho emau nyimi.",
+    "number": 141
+  }
+},
+{
+  "model": "hymns.hymn",
+  "pk": 142,
+  "fields": {
+    "title": "Kik iweya arueny para",
+    "lyrics": "1.\r\nKik iweya arueny para,\r\nKik iweya arueny para, (x2)\r\nPara Yesu Ruodha para\r\nKik iweya arueny para. (x2)\r\n\r\n2. \r\nNdik wecheni eiya.\r\nNdik wecheni eiya. (x2)\r\nNdiki Yesu Ruodha, ndiki,\r\nNdik weche ni eiya. (x2)\r\n\r\n3.\r\nNdiki wendeni eiya,\r\nNdiki wendeni eiya. (x2)\r\nNdiki Yesu Ruodha, ndiki,\r\nNdiki wecheni eiya. (x2)\r\n\r\n4.\r\nGwedha mondo aneye polo,\r\nGwedha mondo aneye polo. (x2)\r\nGwedha Yesu Ruodha gwedha,\r\nGwedha mondo aneye polo. (x2)\r\n\r\n5. \r\nKik iweya aher gi piny.\r\nKik iweya aher gi piny. (x2)\r\nMaka Yesu Ruodha maka,\r\nKik iweya aher gi piny. (x2)\r\n\r\n6. \r\nKonya mondo alo jawuond,\r\nKonya mondo alo jawuond. (x2)\r\nKonya Yesu Ruodha konya\r\nKonyo mondo alo jawuond. (x2)\r\n\r\n7. \r\nKik iweya alal maka,\r\nKik iweya alal maka. (x2)\r\nMaka Yesu Ruodha maka\r\nKik iweya alal maka. (x2)",
+    "number": 142
+  }
+},
+{
+  "model": "hymns.hymn",
+  "pk": 143,
+  "fields": {
+    "title": "Yesu aneno gi chunya",
+    "lyrics": "1.\r\nYesu aneno gi chunya.\r\nWang'a me chunya nene;\r\nNdalo duto owuoyona,\r\nWechene berna chutho.\r\nEn mwanduna, en ngimana,\r\nEn tekona, en yora be,\r\nYesu yora be.\r\nDuonde mitna kendo muol!\r\nOjiwa omiya thuon gi chir.\r\n\r\n2. \r\nYesu Wuoyo ni chunya,\r\nTo kawinje amor ail,\r\nTo kachayo wechene,\r\nAkuyo, adhier, aol, atuo;\r\nWeche Yesu miya thuon,\r\nEma geng'ona richo.\r\nEnie chiemo mak sina\r\nMitna mitna moloyo.\r\n\r\n3. \r\nYesu wuoyona komor,\r\nOk ojog kodangang'.\r\nOpuonja yorene maler,\r\nMaterae dalane;\r\nChunya yom to kendo mor,\r\nSaa matimo weche Ruoth.\r\nYesu Ruodh Jakwadh chunya\r\nEn emo puonja ok ool\r\n\r\n4.\r\nTuochena ochangona, \r\nMayande otamo ajuoge te;\r\nGombona otiekona\r\nMayande dwaro luta e bur.\r\nTinde ayudo Iwandana,\r\nTinde ayudo ohingana,\r\nTekona gi riekona\r\nYesu ahero kendo amor.\r\n\r\n5.\r\nPolo to jimorie te,\r\nGise yudo mor manyien,\r\nOnge ng'ama sin kuro\r\nJi gi mor gi herore;\r\nGimor, giil, giwer manyien\r\nKagi pako Ruodh hera,\r\nPolo dalawa Sayun\r\nKama ler richo ongee.",
+    "number": 143
+  }
+},
+{
+  "model": "hymns.hymn",
+  "pk": 144,
+  "fields": {
+    "title": "Ini ka gima ne ichwoyo",
+    "lyrics": "1.\r\nTo kichwoyo kodhi\r\nMar ngima adiera,\r\nTo kichwoyo kodhi\r\nMar ngima Aleluya:\r\n\r\nKa ndalo mar keyo\r\nOchopo koro,\r\nIni ka gima ne ichwoyo;\r\nIni ka gima ne\r\nIchwoyo adiera,\r\nIni kagimane\r\nIchwoyo Aleluya.\r\nKa ndalo mar keyo ochopo koro,\r\nIni ka gima ne ichwoyo.\r\n\r\n2. \r\nTo kichwoyo kodhi\r\nMar Roho adiera,\r\nTo kichwoyo kodhi\r\nMar Roho Aleluya.\r\n\r\n3. \r\nTo kichwoyo kodhi\r\nMabeyo adiera,\r\nTo kichwoyo kodhi\r\nMabeyo Aleluya.\r\n\r\n4.\r\nTo kichwoyo kodhi\r\nMaricho adiera.\r\nTo kichwoyo kodhi\r\nMaricho Aleluya.\r\n\r\n5. \r\nIni nyisa gima ne\r\nIchwoyo adiera,\r\nIni nyisa gima ne\r\nIchwoyo Aleluya.",
+    "number": 144
+  }
+},
+{
+  "model": "hymns.hymn",
+  "pk": 145,
+  "fields": {
+    "title": "Mor nie dala Ruoth",
+    "lyrics": "1.\r\nMor nie dala Ruoth,\r\nKiloyo Iweny ni yudi. (x2)\r\nNiyudi Halleluya,\r\nNiyudi osimbo mar ngima. (x2)\r\n\r\n2.\r\nJoote morie paradis,\r\nNikech gi kadho sand mager. (x2)\r\nGiseyudo, giseyudo\r\nOsimbo mar ngima. (x2)\r\n\r\n3.\r\nJohera keduru matek\r\nNgima okan ne joloyo. (x2)\r\nNgima okan, ngima okan\r\nNi thuondi molocho. (x2)",
+    "number": 145
+  }
+},
+{
+  "model": "hymns.hymn",
+  "pk": 146,
+  "fields": {
+    "title": "Onge gima anyalo rito",
+    "lyrics": "1.\r\nOnge gima anyalo rito,\r\nMak mana ngima mochwere,\r\nDuto madigale anawegi katho\r\nOnge gima anyalo rito. (2)\r\n\r\n2. \r\nEre gima disikie epiny\r\nMak nowang' e chieng' giko piny,\r\nGi pinyni duto ma uneno koro\r\nGini wang' ka Yesu biro. (2)\r\n\r\n3. \r\nNg'at mariek koro omak jawar\r\nOchiw chunye Yesu oketie kom,\r\nEnowuoth kod Roho mamenyonwa ogen:\r\nYor kwe nyaka ochopie dala maler. (2)\r\n\r\n4. \r\nNdalo osechopo ogendini pogore,\r\nRoho koro nyago piny gi wach,\r\nOnge ngamo ng'eyo kata jomariek\r\nSing mar Yesu kuom Roho Maler. (2)\r\n\r\n5. \r\nNgima Yesu osingo ni ji duto,\r\nNyasaye ok dwar chwechne nodhiye mach,\r\nTo emomiyo koro inidhiye mach,\r\nRicho emomiyo koro inidhiye mach. (2)\r\n\r\n6.\r\nTeko mar pinyni orem gi ka,\r\nRieko mar piny bende orem gi ka,\r\nBer piny bende orem ok ochopo e polo,\r\nBer mar polo osiko manyakachieng'. (2)\r\n\r\n7.\r\nOgend pinyni ok chiw ngima to\r\nKata ogend polo ok chiw ngima,\r\nWuone gowete bende ginie piny\r\nTo onge ma nyalo chiwo ngima. (2)\r\n\r\n8. \r\nKoro omiyo apako Yesu Ruoth,\r\nJahera Yesu apako manyakachieng',\r\nNene okecha nono ekind ogendini\r\nMonyisa yor ngima manyakachieng'. (2)\r\n\r\n9. \r\nKoro neuru Yesu ochiwo tich\r\nWeche oseromo ogendini parore,\r\nEre ng'ama nyalo odonj e dala\r\nMogen mak otimo gima Ruoth oyie. (2)\r\n\r\n10. \r\nKoro neuru ndalo osechopo\r\nKik ing'i ng'eyi to chik nyimi tir\r\nJopiny nonego Yesu gi jogo\r\nMano luwe in to koro nitony nadi. (2",
+    "number": 146
+  }
+}
+]
