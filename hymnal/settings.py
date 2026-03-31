@@ -114,7 +114,7 @@ import os
 
 DATABASES = {
     'default': dj_database_url.config(
-        default=os.getenv('DATABASE_URL', 'sqlite:///db.sqlite3')
+        default='sqlite:///db.sqlite3'  # fallback for local dev
     )
 }
 
