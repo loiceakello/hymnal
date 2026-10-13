@@ -25,7 +25,7 @@ class HymnAdmin(admin.ModelAdmin):
     # Optional: group fields in the form
     fieldsets = (
         (None, {
-            'fields': ('number', 'title', 'author', 'lyrics', 'language')
+            'fields': ('number', 'title', 'lyrics', 'language')
         }),
         ('Metadata', {
             'fields': ('updated_at',),
