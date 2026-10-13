@@ -16,11 +16,24 @@
 
 
 
+from django.shortcuts import render, get_object_or_404
 from rest_framework import viewsets, filters
 from django_filters.rest_framework import DjangoFilterBackend
 from .models import Hymn
 from .serializers import HymnSerializer
 
+# 🔹 Offline template views
+def hymn_list(request):
+    # Default to Dholuo hymns if no language is specified
+    language = request.GET.get('language', 'dholuo')
+    hymns = Hymn.objects.filter(language=language).order_by('number')
+    return render(request, 'hymn_list.html', {'hymns': hymns, 'language': language})
+
+def hymn_detail(request, pk):
+    hymn = get_object_or_404(Hymn, pk=pk)
+    return render(request, 'hymn_detail.html', {'hymn': hymn})
+
+# 🔹 API ViewSet for sync
 class HymnViewSet(viewsets.ModelViewSet):
     queryset = Hymn.objects.all()
     serializer_class = HymnSerializer
