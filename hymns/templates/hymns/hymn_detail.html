@@ -1,4 +1,21 @@
-<h1>{{ hymn.title }}</h1>
+{% comment %} <h1>{{ hymn.title }}</h1>
 <p><strong>Author:</strong> {{ hymn.author }}</p>
 <pre>{{ hymn.lyrics }}</pre>
-<a href="/hymns/">Back to list</a>
+<a href="/hymns/">Back to list</a> {% endcomment %}
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>{{ hymn.title }}</title>
+</head>
+<body>
+    <h1>{{ hymn.number }} - {{ hymn.title }}</h1>
+    <p><strong>Author:</strong> {{ hymn.author }}</p>
+    <p><strong>Language:</strong> {{ hymn.language|title }}</p>
+    <pre>{{ hymn.lyrics }}</pre>
+    <p><em>Last updated: {{ hymn.updated_at }}</em></p>
+    <a href="/hymns/">Back to list</a>
+</body>
+</html>

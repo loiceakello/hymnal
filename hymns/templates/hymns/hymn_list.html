@@ -1,6 +1,39 @@
-<h1>Hymnal Book</h1>
+{% comment %} <h1>Hymnal Book</h1>
 <ul>
   {% for hymn in hymns %}
     <li><a href="{{ hymn.id }}/">{{ hymn.number }} - {{ hymn.title }}</a></li>
   {% endfor %}
-</ul>
+</ul> {% endcomment %}
+
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Hymnal Book</title>
+</head>
+<body>
+    <h1>Hymnal Book</h1>
+
+    <!-- Language selector -->
+    <form method="get" action="">
+        <label for="language">Select Language:</label>
+        <select name="language" id="language" onchange="this.form.submit()">
+            <option value="dholuo" {% if request.GET.language == "dholuo" or not request.GET.language %}selected{% endif %}>Dholuo</option>
+            <option value="kiswahili" {% if request.GET.language == "kiswahili" %}selected{% endif %}>Kiswahili</option>
+        </select>
+    </form>
+
+    <!-- Hymn list -->
+    <ul>
+      {% for hymn in hymns %}
+        <li>
+          <a href="{{ hymn.id }}/">{{ hymn.number }} - {{ hymn.title }}</a>
+        </li>
+      {% empty %}
+        <li>No hymns available in this language.</li>
+      {% endfor %}
+    </ul>
+</body>
+</html>
