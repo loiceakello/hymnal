@@ -18,6 +18,7 @@ class HymnSerializer(serializers.ModelSerializer):
             'id',
             'number',
             'title',
+            'author',
             'lyrics',
             'language',     # include language so frontend can filter
             'updated_at'    # include updated_at for sync logic

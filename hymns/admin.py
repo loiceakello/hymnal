@@ -11,7 +11,7 @@ from .models import Hymn
 @admin.register(Hymn)
 class HymnAdmin(admin.ModelAdmin):
     # Show these fields in the admin list view
-    list_display = ('number', 'title', 'author', 'language', 'updated_at')
+    list_display = ('number', 'title', 'language', 'updated_at')
 
     # Add filters in the right sidebar
     list_filter = ('language',)
