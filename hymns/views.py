@@ -17,8 +17,7 @@
 
 
 from django.shortcuts import render, get_object_or_404
-from rest_framework import viewsets, filters
-from django_filters.rest_framework import DjangoFilterBackend
+from rest_framework import viewsets
 from .models import Hymn
 from .serializers import HymnSerializer
 
@@ -33,15 +32,10 @@ def hymn_detail(request, pk):
     hymn = get_object_or_404(Hymn, pk=pk)
     return render(request, 'hymn_detail.html', {'hymn': hymn})
 
-# 🔹 API ViewSet for sync
+# 🔹 API ViewSet for sync (no filters/search)
 class HymnViewSet(viewsets.ModelViewSet):
     queryset = Hymn.objects.all()
     serializer_class = HymnSerializer
-
-    # Enable filtering and search
-    filter_backends = [DjangoFilterBackend, filters.SearchFilter]
-    filterset_fields = ['number']  # exact match filter
-    search_fields = ['title', 'lyrics']  # partial match search
 
     def get_queryset(self):
         qs = super().get_queryset()
@@ -57,3 +51,4 @@ class HymnViewSet(viewsets.ModelViewSet):
             qs = qs.filter(updated_at__gt=updated_after)
 
         return qs
+
